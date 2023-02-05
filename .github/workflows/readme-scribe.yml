@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
 
       - uses: muesli/readme-scribe@master
         env:
@@ -20,8 +22,8 @@ jobs:
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
