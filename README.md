@@ -51,13 +51,13 @@
 #### 🌱 My public gists
 
 
-- [test.sh output currently](https://gist.github.com/ccd2fcba79afba937ad2fcd7b991297d) - 5 months ago
-
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 8 months ago
 
 - [Use Tailwindcss 3 with Symfony 5/6](https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f) - 1 year ago
 
 - [Convert Drupal 7 tables to utf8mb4](https://gist.github.com/ef42b2ce2f464cd2ce5bd5fb579ab3ab) - 2 years ago
+
+- [How to sync to other git repository in different system (Azure example)](https://gist.github.com/e23d1f9e1450d6b45e0ca190edfb986e) - 2 years ago
 
 - [Wodby Slack notifier](https://gist.github.com/ff0fe5c5d93051b727195fc889a9f34d) - 2 years ago
 
@@ -66,8 +66,6 @@
 - [Local development support for Traefik v1 and v2 in the same project](https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559) - 2 years ago
 
 - [](https://gist.github.com/ce42754ae29000faaeb3b7df89ae15a3) - 3 years ago
-
-- [keybase.md](https://gist.github.com/0a42a3fcaf5ef170706b973bd842546a) - 4 years ago
 
 - [Pipe emails to PHP script](https://gist.github.com/b1e85ce5837420b886cb) - 7 years ago
 
