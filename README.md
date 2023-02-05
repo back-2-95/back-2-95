@@ -27,144 +27,54 @@
 #### 🌱 My latest PRs
 
 
-Title: Docker buildx bake - The Sequel
-URL: https://github.com/dunglas/frankenphp/pull/133
-State: OPEN
-CreatedAt: 3 weeks ago
-Repository name: dunglas/frankenphp
-Repository description: The modern PHP app server
-Repository URL: https://github.com/dunglas/frankenphp
+- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 3 weeks ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
-Title: Use new buildx 0.8 feature &#34;contexts&#34;
-URL: https://github.com/back-2-95/frankenphp/pull/1
-State: OPEN
-CreatedAt: 3 weeks ago
-Repository name: back-2-95/frankenphp
-Repository description: The modern PHP app server
-Repository URL: https://github.com/back-2-95/frankenphp
+- [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 3 weeks ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
 
-Title: Update phpunit.xml.dist from core
-URL: https://github.com/druidfi/spell/pull/43
-State: MERGED
-CreatedAt: 1 month ago
-Repository name: druidfi/spell
-Repository description: Spell to summon a new Drupal project
-Repository URL: https://github.com/druidfi/spell
+- [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-Title: PHP 8.2 support on tests
-URL: https://github.com/druidfi/mysqldump-php/pull/20
-State: MERGED
-CreatedAt: 1 month ago
-Repository name: druidfi/mysqldump-php
-Repository description: PHP version of mysqldump cli that comes with MySQL
-Repository URL: https://github.com/druidfi/mysqldump-php
+- [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-Title: Macos 12 tests in GHA
-URL: https://github.com/druidfi/stonehenge/pull/74
-State: MERGED
-CreatedAt: 1 month ago
-Repository name: druidfi/stonehenge
-Repository description: Multi-project local development environment &amp; toolset on Docker
-Repository URL: https://github.com/druidfi/stonehenge
+- [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
-Title: Drupal 10.0.0
-URL: https://github.com/dunglas/frankenphp-drupal/pull/13
-State: MERGED
-CreatedAt: 1 month ago
-Repository name: dunglas/frankenphp-drupal
-Repository description: Drupal on FrankenPHP
-Repository URL: https://github.com/dunglas/frankenphp-drupal
+- [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-Title: Drupal 10 RC3
-URL: https://github.com/dunglas/frankenphp-drupal/pull/11
-State: MERGED
-CreatedAt: 1 month ago
-Repository name: dunglas/frankenphp-drupal
-Repository description: Drupal on FrankenPHP
-Repository URL: https://github.com/dunglas/frankenphp-drupal
+- [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-Title: Drupal 10 RC2
-URL: https://github.com/dunglas/frankenphp-drupal/pull/10
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: dunglas/frankenphp-drupal
-Repository description: Drupal on FrankenPHP
-Repository URL: https://github.com/dunglas/frankenphp-drupal
+- [Drupal 10 RC2](https://github.com/dunglas/frankenphp-drupal/pull/10) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-Title: Drupal and private files
-URL: https://github.com/druidfi/guidelines/pull/9
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: druidfi/guidelines
-Repository description: Druid&#39;s various guidelines related to technical work
-Repository URL: https://github.com/druidfi/guidelines
+- [Drupal and private files](https://github.com/druidfi/guidelines/pull/9) - `MERGED` 2 months ago - [druidfi/guidelines](https://github.com/druidfi/guidelines): Druid&#39;s various guidelines related to technical work
 
-Title: Docs with phpDocumentor
-URL: https://github.com/druidfi/mysqldump-php/pull/18
-State: OPEN
-CreatedAt: 2 months ago
-Repository name: druidfi/mysqldump-php
-Repository description: PHP version of mysqldump cli that comes with MySQL
-Repository URL: https://github.com/druidfi/mysqldump-php
+- [Docs with phpDocumentor](https://github.com/druidfi/mysqldump-php/pull/18) - `OPEN` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
 
 
-Name: ccd2fcba79afba937ad2fcd7b991297d
-Description: test.sh output currently
-URL: https://gist.github.com/ccd2fcba79afba937ad2fcd7b991297d
-Created: 5 months ago
+- [test.sh output currently](https://gist.github.com/ccd2fcba79afba937ad2fcd7b991297d) - 5 months ago
 
-Name: bb73dc3d76cdae889ed4bd87930682f9
-Description: Trigger Lagoon deployment from Azure pipeline
-URL: https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9
-Created: 8 months ago
+- [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 8 months ago
 
-Name: 3d059e4443ee8f028ab5c8c20b602b2f
-Description: Use Tailwindcss 3 with Symfony 5/6
-URL: https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f
-Created: 1 year ago
+- [Use Tailwindcss 3 with Symfony 5/6](https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f) - 1 year ago
 
-Name: ef42b2ce2f464cd2ce5bd5fb579ab3ab
-Description: Convert Drupal 7 tables to utf8mb4
-URL: https://gist.github.com/ef42b2ce2f464cd2ce5bd5fb579ab3ab
-Created: 2 years ago
+- [Convert Drupal 7 tables to utf8mb4](https://gist.github.com/ef42b2ce2f464cd2ce5bd5fb579ab3ab) - 2 years ago
 
-Name: ff0fe5c5d93051b727195fc889a9f34d
-Description: Wodby Slack notifier
-URL: https://gist.github.com/ff0fe5c5d93051b727195fc889a9f34d
-Created: 2 years ago
+- [Wodby Slack notifier](https://gist.github.com/ff0fe5c5d93051b727195fc889a9f34d) - 2 years ago
 
-Name: fe39495086cdace14d521454451432f7
-Description: Drupal Rector with Docker image
-URL: https://gist.github.com/fe39495086cdace14d521454451432f7
-Created: 2 years ago
+- [Drupal Rector with Docker image](https://gist.github.com/fe39495086cdace14d521454451432f7) - 2 years ago
 
-Name: 3fe30a9fe538d3abb1198aa6ed766559
-Description: Local development support for Traefik v1 and v2 in the same project
-URL: https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559
-Created: 2 years ago
+- [Local development support for Traefik v1 and v2 in the same project](https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559) - 2 years ago
 
-Name: ce42754ae29000faaeb3b7df89ae15a3
-Description: 
-URL: https://gist.github.com/ce42754ae29000faaeb3b7df89ae15a3
-Created: 3 years ago
+- [](https://gist.github.com/ce42754ae29000faaeb3b7df89ae15a3) - 3 years ago
 
-Name: 0a42a3fcaf5ef170706b973bd842546a
-Description: keybase.md
-URL: https://gist.github.com/0a42a3fcaf5ef170706b973bd842546a
-Created: 4 years ago
+- [keybase.md](https://gist.github.com/0a42a3fcaf5ef170706b973bd842546a) - 4 years ago
 
-Name: b1e85ce5837420b886cb
-Description: Pipe emails to PHP script
-URL: https://gist.github.com/b1e85ce5837420b886cb
-Created: 7 years ago
+- [Pipe emails to PHP script](https://gist.github.com/b1e85ce5837420b886cb) - 7 years ago
 
 
 #### 🌱 My latest projects
 
 
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - 
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch.
 - [back-2-95/aws-efs-aurora-test](https://github.com/back-2-95/aws-efs-aurora-test) - 
