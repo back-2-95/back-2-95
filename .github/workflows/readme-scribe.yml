@@ -25,6 +25,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: ${{ github.event.pusher.name }}
-          commit_user_email: ${{ github.event.pusher.email }}
-          commit_author: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
