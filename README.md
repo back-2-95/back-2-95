@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
@@ -39,13 +39,13 @@
 
 - [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-- [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Drupal 10 RC2](https://github.com/dunglas/frankenphp-drupal/pull/10) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Drupal and private files](https://github.com/druidfi/guidelines/pull/9) - `MERGED` 2 months ago - [druidfi/guidelines](https://github.com/druidfi/guidelines): Druid&#39;s various guidelines related to technical work
 
-- [Docs with phpDocumentor](https://github.com/druidfi/mysqldump-php/pull/18) - `OPEN` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Docs with phpDocumentor](https://github.com/druidfi/mysqldump-php/pull/18) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
