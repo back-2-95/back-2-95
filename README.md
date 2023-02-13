@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 4 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 1 month ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 2 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 5 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 6 months ago) - Docker image which compiles CSS (from SASS) and JS files.
@@ -27,9 +27,9 @@
 #### 🌱 My latest PRs
 
 
-- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 4 weeks ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
+- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 1 month ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
-- [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 4 weeks ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
+- [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 1 month ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
 
 - [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -37,7 +37,7 @@
 
 - [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
-- [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
