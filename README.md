@@ -12,7 +12,7 @@
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (1 month ago)
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -43,7 +43,7 @@
 
 - [Drupal 10 RC2](https://github.com/dunglas/frankenphp-drupal/pull/10) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-- [Drupal and private files](https://github.com/druidfi/guidelines/pull/9) - `MERGED` 2 months ago - [druidfi/guidelines](https://github.com/druidfi/guidelines): Druid&#39;s various guidelines related to technical work
+- [Drupal and private files](https://github.com/druidfi/guidelines/pull/9) - `MERGED` 3 months ago - [druidfi/guidelines](https://github.com/druidfi/guidelines): Druid&#39;s various guidelines related to technical work
 
 - [Docs with phpDocumentor](https://github.com/druidfi/mysqldump-php/pull/18) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
