@@ -4,7 +4,7 @@
 
 
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (4 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 weeks ago)
