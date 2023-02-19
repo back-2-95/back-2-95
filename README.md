@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 day ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
-- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (4 weeks ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 weeks ago)
+- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 months ago)
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (2 months ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
 
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 1 day ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 2 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 1 month ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
@@ -37,7 +37,7 @@
 
 - [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+- [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 2 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
