@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (3 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
@@ -10,7 +11,6 @@
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 months ago)
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (2 months ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
 
@@ -26,6 +26,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 3 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
@@ -44,8 +46,6 @@
 - [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Drupal 10 RC2](https://github.com/dunglas/frankenphp-drupal/pull/10) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
-
-- [Drupal and private files](https://github.com/druidfi/guidelines/pull/9) - `MERGED` 3 months ago - [druidfi/guidelines](https://github.com/druidfi/guidelines): Druid&#39;s various guidelines related to technical work
 
 
 #### 🌱 My public gists
