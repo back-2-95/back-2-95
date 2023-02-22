@@ -29,7 +29,7 @@
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 days ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 5 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 5 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 1 month ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
