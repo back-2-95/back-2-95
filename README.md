@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
-- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (4 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
+- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (5 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
@@ -27,9 +27,9 @@
 #### 🌱 My latest PRs
 
 
-- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 1 day ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 days ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 4 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `OPEN` 5 days ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 1 month ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
