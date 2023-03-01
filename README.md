@@ -74,5 +74,5 @@
 
 
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API
+- [back-2-95/directus-starter](https://github.com/back-2-95/directus-starter) - 
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch.
-- [back-2-95/aws-efs-aurora-test](https://github.com/back-2-95/aws-efs-aurora-test) - 
