@@ -10,8 +10,8 @@
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 
 
