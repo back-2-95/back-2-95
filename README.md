@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 day ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
