@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `OPEN` today - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
+
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 weeks ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 3 weeks ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
@@ -44,8 +46,6 @@
 - [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
-
-- [Drupal 10 RC2](https://github.com/dunglas/frankenphp-drupal/pull/10) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
