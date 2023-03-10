@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (3 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 days ago)
+- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (4 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
-- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 weeks ago)
+- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (3 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
@@ -29,7 +29,7 @@
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 weeks ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 2 weeks ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 3 weeks ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 1 month ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
@@ -51,7 +51,7 @@
 #### 🌱 My public gists
 
 
-- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 3 days ago
+- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 4 days ago
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 10 months ago
 
