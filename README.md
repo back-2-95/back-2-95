@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 week ago)
+- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (today)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (2 weeks ago)
