@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (today)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (5 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 day ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (6 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (3 weeks ago)
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 1 week ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
+- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 2 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 1 month ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
