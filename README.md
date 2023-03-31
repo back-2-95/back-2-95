@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` today - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 3 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 1 month ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
@@ -44,8 +46,6 @@
 - [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
-
-- [Drupal 10 RC3](https://github.com/dunglas/frankenphp-drupal/pull/11) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
