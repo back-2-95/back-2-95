@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (6 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
-- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 week ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
+- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 2 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
+- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 3 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 1 month ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
@@ -39,7 +39,7 @@
 
 - [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 2 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
