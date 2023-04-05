@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (5 days ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 week ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 4 days ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+- [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 5 days ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 3 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
@@ -51,7 +51,7 @@
 #### 🌱 My public gists
 
 
-- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 4 weeks ago
+- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 1 month ago
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 10 months ago
 
