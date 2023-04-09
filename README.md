@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (today)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (3 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
@@ -12,7 +13,6 @@
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (2 weeks ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -26,6 +26,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` today - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 1 week ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -44,8 +46,6 @@
 - [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
-
-- [Drupal 10.0.0](https://github.com/dunglas/frankenphp-drupal/pull/13) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
@@ -75,6 +75,6 @@
 #### 🌱 My latest projects
 
 
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API
 - [back-2-95/directus-starter](https://github.com/back-2-95/directus-starter) - 
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch.
