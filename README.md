@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (5 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (3 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (2 weeks ago)
@@ -29,7 +29,7 @@
 
 - [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 1 week ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 4 weeks ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
+- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 1 month ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 1 month ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
