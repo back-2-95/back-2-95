@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (1 day ago)
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (today)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
-- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 weeks ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (2 weeks ago)
+- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 
 
@@ -26,6 +26,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` today - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 1 day ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
@@ -44,8 +46,6 @@
 - [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Macos 12 tests in GHA](https://github.com/druidfi/stonehenge/pull/74) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 
 #### 🌱 My public gists
