@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (1 day ago)
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (today)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (5 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` today - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 1 day ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 2 days ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
@@ -44,8 +46,6 @@
 - [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 2 months ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
 
 - [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
-
-- [PHP 8.2 support on tests](https://github.com/druidfi/mysqldump-php/pull/20) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
