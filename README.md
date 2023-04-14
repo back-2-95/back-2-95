@@ -51,6 +51,8 @@
 #### 🌱 My public gists
 
 
+- [Lagoon Docker Compose setup](https://gist.github.com/c4b777d87467c3c2abc8afb99a86be1e) - today
+
 - [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 1 month ago
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 11 months ago
@@ -68,8 +70,6 @@
 - [Local development support for Traefik v1 and v2 in the same project](https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559) - 2 years ago
 
 - [](https://gist.github.com/ce42754ae29000faaeb3b7df89ae15a3) - 3 years ago
-
-- [Pipe emails to PHP script](https://gist.github.com/b1e85ce5837420b886cb) - 7 years ago
 
 
 #### 🌱 My latest projects
