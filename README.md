@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (2 days ago)
+- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (today)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (3 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
