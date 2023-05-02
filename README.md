@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (today)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (3 days ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
+- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (1 day ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (4 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (5 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
-- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (2 weeks ago)
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (3 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 month ago)
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 2 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 3 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 3 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
@@ -45,7 +45,7 @@
 
 - [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 3 months ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
 
-- [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+- [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 
 #### 🌱 My public gists
