@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
-- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
-- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (3 weeks ago)
+- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (4 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
@@ -27,15 +27,15 @@
 #### 🌱 My latest PRs
 
 
-- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 3 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 4 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 4 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
-- [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 4 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 1 month ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 1 month ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
+- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 2 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
