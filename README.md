@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 weeks ago)
 - [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (4 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 5 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 8 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 9 months ago) - Docker image which compiles CSS (from SASS) and JS files.
@@ -29,7 +29,7 @@
 
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 4 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
-- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 4 weeks ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 1 month ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 1 month ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
