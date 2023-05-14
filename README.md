@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 5 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 8 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 9 months ago) - Docker image which compiles CSS (from SASS) and JS files.
@@ -41,9 +41,9 @@
 
 - [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 2 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
-- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 3 months ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
+- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 4 months ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
-- [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 3 months ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
+- [Use new buildx 0.8 feature &#34;contexts&#34;](https://github.com/back-2-95/frankenphp/pull/1) - `OPEN` 4 months ago - [back-2-95/frankenphp](https://github.com/back-2-95/frankenphp): The modern PHP app server
 
 - [Update phpunit.xml.dist from core](https://github.com/druidfi/spell/pull/43) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -51,7 +51,7 @@
 #### 🌱 My public gists
 
 
-- [Lagoon Docker Compose setup](https://gist.github.com/c4b777d87467c3c2abc8afb99a86be1e) - 4 weeks ago
+- [Lagoon Docker Compose setup](https://gist.github.com/c4b777d87467c3c2abc8afb99a86be1e) - 1 month ago
 
 - [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 2 months ago
 
