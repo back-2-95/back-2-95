@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (2 weeks ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 weeks ago)
@@ -39,7 +39,7 @@
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 2 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 2 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 3 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 4 months ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
