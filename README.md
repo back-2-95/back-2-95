@@ -3,6 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (today)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (2 weeks ago)
@@ -11,8 +13,6 @@
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 - [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
-- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -37,7 +37,7 @@
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 1 month ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
-- [Drush 12 beta1](https://github.com/druidfi/spell/pull/44) - `OPEN` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+- [Drush 12 RC1](https://github.com/druidfi/spell/pull/44) - `OPEN` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 2 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
