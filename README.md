@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
@@ -27,9 +27,9 @@
 #### 🌱 My latest PRs
 
 
-- [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 1 month ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
