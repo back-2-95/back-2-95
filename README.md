@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
@@ -12,7 +12,7 @@
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 - [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions (1 month ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -53,7 +53,7 @@
 
 - [Lagoon Docker Compose setup](https://gist.github.com/c4b777d87467c3c2abc8afb99a86be1e) - 1 month ago
 
-- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 2 months ago
+- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 3 months ago
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 1 year ago
 
