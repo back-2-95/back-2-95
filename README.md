@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `OPEN` today - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+
 - [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -44,8 +46,6 @@
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 3 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 3 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
-
-- [Docker buildx bake - The Sequel](https://github.com/dunglas/frankenphp/pull/133) - `OPEN` 4 months ago - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
 
 
 #### 🌱 My public gists
