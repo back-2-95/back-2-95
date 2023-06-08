@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [Drupal 10.1 RC1](https://github.com/druidfi/spell/pull/45) - `OPEN` today - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+
 - [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `OPEN` 1 day ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -44,8 +46,6 @@
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 3 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 - [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 3 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
-
-- [Asset packagist](https://github.com/vrk-kpa/suomidigi/pull/315) - `MERGED` 3 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 
 #### 🌱 My public gists
