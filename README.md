@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) -  (today)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
@@ -10,7 +11,6 @@
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
-- [druidfi/drupal-slimmer](https://github.com/druidfi/drupal-slimmer) -  (1 month ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 
