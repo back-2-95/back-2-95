@@ -37,7 +37,7 @@
 
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 2 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
-- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 2 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
