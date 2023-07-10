@@ -35,7 +35,7 @@
 
 - [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 2 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
