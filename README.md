@@ -45,7 +45,7 @@
 
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 4 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
-- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 4 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 5 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 
 #### 🌱 My public gists
