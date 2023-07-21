@@ -51,6 +51,8 @@
 #### 🌱 My public gists
 
 
+- [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - today
+
 - [Lagoon Docker Compose setup](https://gist.github.com/c4b777d87467c3c2abc8afb99a86be1e) - 3 months ago
 
 - [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 4 months ago
@@ -68,8 +70,6 @@
 - [Drupal Rector with Docker image](https://gist.github.com/fe39495086cdace14d521454451432f7) - 3 years ago
 
 - [Local development support for Traefik v1 and v2 in the same project](https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559) - 3 years ago
-
-- [](https://gist.github.com/ce42754ae29000faaeb3b7df89ae15a3) - 3 years ago
 
 
 #### 🌱 My latest projects
