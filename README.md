@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) -  (1 month ago)
