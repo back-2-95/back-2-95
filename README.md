@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.1](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.1), today) - Composer Plugin remove obsolete files and folders
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), today) - Composer Plugin remove obsolete files and folders
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 7 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 10 months ago) - Multi-project local development environment &amp; toolset on Docker
