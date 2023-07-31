@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (today)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (3 days ago)
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (3 days ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (5 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (6 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.0](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.0), 3 days ago) - Composer Plugin remove obsolete files and folders
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.1](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.1), today) - Composer Plugin remove obsolete files and folders
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 7 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 10 months ago) - Multi-project local development environment &amp; toolset on Docker
@@ -27,6 +27,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` today - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -45,8 +47,6 @@
 - [Drush 12](https://github.com/druidfi/spell/pull/44) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 4 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
-
-- [Docker refactor](https://github.com/druidfi/tools/pull/12) - `MERGED` 5 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 
 #### 🌱 My public gists
