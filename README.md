@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 4 days ago) - Composer Plugin remove obsolete files and folders
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 11 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 11 months ago) - Docker image which compiles CSS (from SASS) and JS files.
