@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (4 days ago)
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (5 days ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 4 days ago) - Composer Plugin remove obsolete files and folders
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 5 days ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 11 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 11 months ago) - Docker image which compiles CSS (from SASS) and JS files.
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 4 days ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
+- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 5 days ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 1 month ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 1 day ago
+- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 2 days ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 2 weeks ago
 
