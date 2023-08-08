@@ -6,8 +6,8 @@
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 week ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 1 week ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 11 months ago) - Multi-project local development environment &amp; toolset on Docker
@@ -40,7 +40,7 @@
 
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
-- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 3 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
+- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 4 days ago
+- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 5 days ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 2 weeks ago
 
