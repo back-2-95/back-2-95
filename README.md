@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `OPEN` today - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+
 - [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 2 weeks ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 2 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
@@ -45,8 +47,6 @@
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Drush 12](https://github.com/druidfi/spell/pull/44) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
-
-- [Support OpenSearch v2](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko/pull/11) - `CLOSED` 5 months ago - [EvidentSolutions/elasticsearch-analysis-raudikko](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko): Finnish language analysis for Elasticsearch using Raudikko
 
 
 #### 🌱 My public gists
