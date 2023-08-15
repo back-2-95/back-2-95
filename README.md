@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (2 weeks ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 weeks ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 weeks ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 2 weeks ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.0.0](https://github.com/druidfi/stonehenge/releases/tag/4.0.0), 11 months ago) - Multi-project local development environment &amp; toolset on Docker
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `OPEN` today - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+- [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `OPEN` 1 day ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 2 weeks ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
