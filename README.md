@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 4 days ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 2 weeks ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
@@ -45,8 +47,6 @@
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
-
-- [Drush 12](https://github.com/druidfi/spell/pull/44) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 
 #### 🌱 My public gists
