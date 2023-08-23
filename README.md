@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (6 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (3 weeks ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (3 weeks ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 6 days ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 1 week ago) - Multi-project local development environment &amp; toolset on Docker
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 3 weeks ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 4 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 5 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 1 week ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
