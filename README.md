@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `OPEN` today - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+
 - [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 2 weeks ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
@@ -45,8 +47,6 @@
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 - [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
-
-- [dev 2 main](https://github.com/back-2-95/gha-test/pull/1) - `MERGED` 4 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 
 #### 🌱 My public gists
