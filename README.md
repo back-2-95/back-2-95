@@ -52,6 +52,8 @@
 #### 🌱 My public gists
 
 
+- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - today
+
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 3 weeks ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 1 month ago
@@ -69,8 +71,6 @@
 - [Wodby Slack notifier](https://gist.github.com/ff0fe5c5d93051b727195fc889a9f34d) - 3 years ago
 
 - [Drupal Rector with Docker image](https://gist.github.com/fe39495086cdace14d521454451432f7) - 3 years ago
-
-- [Local development support for Traefik v1 and v2 in the same project](https://gist.github.com/3fe30a9fe538d3abb1198aa6ed766559) - 3 years ago
 
 
 #### 🌱 My latest projects
