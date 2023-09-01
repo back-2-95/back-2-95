@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 day ago)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (3 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (4 days ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 month ago)
@@ -19,18 +19,18 @@
 
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 2 weeks ago) - Multi-project local development environment &amp; toolset on Docker
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 3 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 1 month ago) - Composer Plugin remove obsolete files and folders
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 8 months ago) - Read the clouds and detect Drupal environment
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 9 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 1 year ago) - Docker image which compiles CSS (from SASS) and JS files.
 - [druidfi/security-checker-action](https://github.com/druidfi/security-checker-action) ([v1](https://github.com/druidfi/security-checker-action/releases/tag/v1), 1 year ago) - Github Action which checks Security issues scanning package manager files
 
 #### 🌱 My latest PRs
 
 
-- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 3 days ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 4 days ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-- [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 2 weeks ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 2 days ago
+- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 3 days ago
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 4 weeks ago
 
