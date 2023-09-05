@@ -3,16 +3,16 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (5 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (6 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 days ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 month ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
-- [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi) - Suomidigi.fi (2 months ago)
+- [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi) - Suomidigi.fi (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -38,7 +38,7 @@
 
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 2 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `MERGED` 2 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
+- [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `MERGED` 3 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
 - [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 6 days ago
+- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 1 week ago
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 1 month ago
 
