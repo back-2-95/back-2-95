@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (today)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (6 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 days ago)
+- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 day ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 month ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 2 weeks ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 3 weeks ago) - Multi-project local development environment &amp; toolset on Docker
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 3 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 1 month ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 9 months ago) - Read the clouds and detect Drupal environment
@@ -36,7 +36,7 @@
 
 - [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 1 month ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
-- [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 2 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+- [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `MERGED` 3 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
 
