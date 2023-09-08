@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` today - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
+
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 1 week ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 3 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -45,8 +47,6 @@
 - [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 5 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
-
-- [Next release](https://github.com/back-2-95/gha-test/pull/2) - `MERGED` 5 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 
 #### 🌱 My public gists
