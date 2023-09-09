@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (3 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (3 days ago)
+- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (4 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (4 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` today - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
+- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 1 day ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 1 week ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
