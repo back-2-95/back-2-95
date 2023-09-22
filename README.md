@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 1 week ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
+- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 2 weeks ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 3 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
