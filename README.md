@@ -4,12 +4,12 @@
 
 
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
-- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (2 weeks ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
+- [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (3 weeks ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (4 weeks ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 month ago)
@@ -51,7 +51,7 @@
 #### 🌱 My public gists
 
 
-- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 3 weeks ago
+- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 4 weeks ago
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 1 month ago
 
