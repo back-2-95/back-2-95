@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
@@ -19,7 +19,7 @@
 
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 1 month ago) - Composer Plugin remove obsolete files and folders
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 2 months ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 9 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 1 year ago) - Docker image which compiles CSS (from SASS) and JS files.
 - [druidfi/security-checker-action](https://github.com/druidfi/security-checker-action) ([v1](https://github.com/druidfi/security-checker-action/releases/tag/v1), 1 year ago) - Github Action which checks Security issues scanning package manager files
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 2 weeks ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
+- [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 3 weeks ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
@@ -35,7 +35,7 @@
 
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
-- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 1 month ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
+- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 2 months ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
