@@ -6,7 +6,7 @@
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (4 weeks ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 month ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 1 day ago) - The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 2 days ago) - The modern PHP app server
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 2 months ago) - Composer Plugin remove obsolete files and folders
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 10 months ago) - Read the clouds and detect Drupal environment
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 2 days ago
+- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 3 days ago
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 1 month ago
 
