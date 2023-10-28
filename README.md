@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `OPEN` today - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+
 - [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 1 month ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
@@ -45,8 +47,6 @@
 - [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Update deprecated GHA runners](https://github.com/druidfi/mysqldump-php/pull/30) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Deploy to prod](https://github.com/back-2-95/gha-test/pull/3) - `MERGED` 6 months ago - [back-2-95/gha-test](https://github.com/back-2-95/gha-test): Test Github Actions
 
 
 #### 🌱 My public gists
