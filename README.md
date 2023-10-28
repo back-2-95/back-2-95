@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
@@ -12,7 +13,6 @@
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [druidfi/bazooka-wordpress](https://github.com/druidfi/bazooka-wordpress) - Base Docker image for running WordPress with Bazooka (1 month ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 months ago)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -21,6 +21,7 @@
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 2 weeks ago) - The modern PHP app server
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 2 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 2 months ago) - Composer Plugin remove obsolete files and folders
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 8 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.7.0](https://github.com/druidfi/omen/releases/tag/0.7.0), 10 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 1 year ago) - Docker image which compiles CSS (from SASS) and JS files.
 - [druidfi/security-checker-action](https://github.com/druidfi/security-checker-action) ([v1](https://github.com/druidfi/security-checker-action/releases/tag/v1), 1 year ago) - Github Action which checks Security issues scanning package manager files
@@ -28,7 +29,7 @@
 #### 🌱 My latest PRs
 
 
-- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `OPEN` today - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` today - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 - [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 1 month ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
