@@ -29,6 +29,8 @@
 #### 🌱 My latest PRs
 
 
+- [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `OPEN` today - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
+
 - [Drupal 10.2 Alpha 1](https://github.com/druidfi/spell/pull/47) - `OPEN` 1 day ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 1 week ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
@@ -46,8 +48,6 @@
 - [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 5 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [SUOMIDIGI-X More commits to Drupal 9.5.9 PR](https://github.com/vrk-kpa/suomidigi/pull/318) - `MERGED` 5 months ago - [vrk-kpa/suomidigi](https://github.com/vrk-kpa/suomidigi): Suomidigi.fi
-
-- [2023 changes from ifsnop](https://github.com/druidfi/mysqldump-php/pull/31) - `OPEN` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
