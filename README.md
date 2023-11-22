@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (4 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 week ago)
+- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (5 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 month ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), 5 days ago) - The modern PHP app server
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.2.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.2.1), 1 week ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), 6 days ago) - The modern PHP app server
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.2.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.2.1), 2 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 3 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 3 months ago) - Composer Plugin remove obsolete files and folders
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 9 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
