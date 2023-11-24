@@ -30,6 +30,8 @@
 #### 🌱 My latest PRs
 
 
+- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `OPEN` today - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+
 - [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 2 weeks ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
@@ -47,8 +49,6 @@
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 3 months ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
-
-- [Drupal 10.1](https://github.com/druidfi/spell/pull/45) - `MERGED` 5 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 
 #### 🌱 My public gists
