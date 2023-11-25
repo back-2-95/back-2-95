@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 weeks ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (4 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 months ago)
@@ -30,15 +30,15 @@
 #### 🌱 My latest PRs
 
 
-- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `OPEN` today - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `OPEN` 1 day ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
-- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 1 day ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 2 weeks ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 - [Drupal 10.2 Beta 1](https://github.com/druidfi/spell/pull/47) - `OPEN` 2 weeks ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 3 weeks ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 4 weeks ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 - [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 2 months ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
