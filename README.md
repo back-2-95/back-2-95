@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 weeks ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (4 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 months ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 months ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 months ago)
@@ -30,9 +30,9 @@
 #### 🌱 My latest PRs
 
 
-- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `OPEN` 1 day ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `OPEN` 2 days ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
-- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 1 day ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 2 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 2 weeks ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
@@ -42,7 +42,7 @@
 
 - [Webpack](https://github.com/druidfi/donn/pull/4) - `OPEN` 2 months ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
-- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
