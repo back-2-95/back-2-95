@@ -30,6 +30,8 @@
 #### 🌱 My latest PRs
 
 
+- [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 3 days ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 3 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -47,8 +49,6 @@
 - [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
-
-- [Exclude Drush readme.md](https://github.com/druidfi/composer-slimmer/pull/6) - `MERGED` 3 months ago - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 
 #### 🌱 My public gists
