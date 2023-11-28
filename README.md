@@ -25,7 +25,6 @@
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 4 months ago) - Composer Plugin remove obsolete files and folders
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 9 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 1 year ago) - Docker image which compiles CSS (from SASS) and JS files.
-- [druidfi/security-checker-action](https://github.com/druidfi/security-checker-action) ([v1](https://github.com/druidfi/security-checker-action/releases/tag/v1), 2 years ago) - Github Action which checks Security issues scanning package manager files
 
 #### 🌱 My latest PRs
 
