@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 days ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (4 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
-- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 week ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (4 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (5 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
+- [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (2 weeks ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (3 weeks ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.4](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.4), today) - The modern PHP app server
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 3 days ago) - Read the clouds and detect Drupal environment
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.4](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.4), 1 day ago) - The modern PHP app server
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 4 days ago) - Read the clouds and detect Drupal environment
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.2.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.2.1), 3 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 3 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 4 months ago) - Composer Plugin remove obsolete files and folders
@@ -29,11 +29,11 @@
 #### 🌱 My latest PRs
 
 
-- [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 6 days ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 1 week ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
-- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 6 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 3 weeks ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
@@ -57,11 +57,11 @@
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 3 months ago
 
-- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 3 months ago
+- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 4 months ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 4 months ago
 
-- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 8 months ago
+- [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 9 months ago
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 2 years ago
 
