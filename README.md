@@ -37,7 +37,7 @@
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 3 weeks ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
-- [Drupal 10.2 Beta 1](https://github.com/druidfi/spell/pull/47) - `OPEN` 4 weeks ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
+- [Drupal 10.2 RC 1](https://github.com/druidfi/spell/pull/47) - `OPEN` 4 weeks ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 1 month ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
