@@ -29,6 +29,8 @@
 #### 🌱 My latest PRs
 
 
+- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` today - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+
 - [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 2 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
@@ -46,8 +48,6 @@
 - [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [App image](https://github.com/druidfi/docker-images/pull/27) - `OPEN` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
-- [Replace MailHog with Mailpit](https://github.com/druidfi/stonehenge/pull/76) - `MERGED` 3 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 
 #### 🌱 My public gists
