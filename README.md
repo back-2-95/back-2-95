@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 weeks ago)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (1 month ago)
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (1 month ago)
@@ -29,7 +29,7 @@
 #### 🌱 My latest PRs
 
 
-- [Add ansible](https://github.com/druidfi/tools/pull/14) - `OPEN` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 1 week ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
