@@ -4,7 +4,7 @@
 
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
@@ -29,7 +29,7 @@
 #### 🌱 My latest PRs
 
 
-- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 1 week ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 2 weeks ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 3 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
