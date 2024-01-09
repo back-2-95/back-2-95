@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 2 days ago) - The modern PHP app server 🧟
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 3 days ago) - The modern PHP app server 🧟
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.0), 3 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 1 month ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 4 months ago) - Multi-project local development environment &amp; toolset on Docker
@@ -29,7 +29,7 @@
 #### 🌱 My latest PRs
 
 
-- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 2 weeks ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 3 weeks ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 4 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
