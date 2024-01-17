@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (today)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (today)
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 day ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 day ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 weeks ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.0), 4 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.0), 1 month ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 1 month ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 5 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 5 months ago) - Composer Plugin remove obsolete files and folders
@@ -58,7 +58,7 @@
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 5 months ago
 
-- [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 5 months ago
+- [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 6 months ago
 
 - [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 10 months ago
 
