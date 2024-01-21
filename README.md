@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (4 days ago)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (4 days ago)
+- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (5 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (5 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
