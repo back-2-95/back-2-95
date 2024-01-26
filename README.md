@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (today)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
@@ -12,7 +13,6 @@
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 months ago)
 - [druidfi/solidjs-template](https://github.com/druidfi/solidjs-template) - Simple template to create Solid apps (2 months ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
