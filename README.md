@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (3 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 weeks ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (2 weeks ago)
@@ -23,7 +23,7 @@
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 5 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 6 months ago) - Composer Plugin remove obsolete files and folders
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 11 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 1 year ago) - Docker image which compiles CSS (from SASS) and JS files.
+- [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 2 years ago) - Docker image which compiles CSS (from SASS) and JS files.
 
 #### 🌱 My latest PRs
 
