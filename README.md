@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` today - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+
 - [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 1 month ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
@@ -45,8 +47,6 @@
 - [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 3 months ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 - [Webpack](https://github.com/druidfi/donn/pull/4) - `CLOSED` 5 months ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
-
-- [Drupal 10.1](https://github.com/dunglas/frankenphp-drupal/pull/16) - `MERGED` 5 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
