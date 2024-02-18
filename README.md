@@ -4,6 +4,7 @@
 
 
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) -  (6 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
@@ -12,7 +13,6 @@
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 month ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
