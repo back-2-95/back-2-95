@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 1 week ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 - [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 2 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
@@ -45,8 +47,6 @@
 - [Drupal 10.2](https://github.com/druidfi/spell/pull/47) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 4 months ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-
-- [Webpack](https://github.com/druidfi/donn/pull/4) - `CLOSED` 5 months ago - [druidfi/donn](https://github.com/druidfi/donn): Docker image which compiles CSS (from SASS) and JS files.
 
 
 #### 🌱 My public gists
