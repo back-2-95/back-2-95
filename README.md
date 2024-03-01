@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/mautic](https://github.com/druidfi/mautic) -  (6 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) -  (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 month ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `OPEN` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `OPEN` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 2 weeks ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
