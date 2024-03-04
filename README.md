@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` today - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
+
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 2 weeks ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -45,8 +47,6 @@
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 3 months ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 - [Drupal 10.2](https://github.com/druidfi/spell/pull/47) - `MERGED` 3 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
-
-- [Support Symfony 7](https://github.com/dunglas/doctrine-json-odm/pull/130) - `MERGED` 4 months ago - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm): An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 
 #### 🌱 My public gists
