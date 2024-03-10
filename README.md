@@ -28,15 +28,15 @@
 #### 🌱 My latest PRs
 
 
-- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 5 days ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
+- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 6 days ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
-- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 3 weeks ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 - [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 2 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 2 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `OPEN` 3 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
