@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (3 days ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) -  (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 3 weeks ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
+- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 4 weeks ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
