@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (6 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) -  (2 weeks ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 months ago)
@@ -19,7 +19,7 @@
 
 
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.1](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.1), 1 month ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 1 month ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 2 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 4 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([4.1.0](https://github.com/druidfi/stonehenge/releases/tag/4.1.0), 7 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 8 months ago) - Composer Plugin remove obsolete files and folders
@@ -44,7 +44,7 @@
 
 - [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 4 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
-- [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 4 months ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 5 months ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 - [Drupal 10.2](https://github.com/druidfi/spell/pull/47) - `MERGED` 5 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
@@ -52,7 +52,7 @@
 #### 🌱 My public gists
 
 
-- [Create Drupal contribution setup using Stonehenge](https://gist.github.com/ab8f16dea7ff2222966613392ee88ce3) - 1 week ago
+- [Create Drupal contribution setup using Stonehenge](https://gist.github.com/ab8f16dea7ff2222966613392ee88ce3) - 2 weeks ago
 
 - [Pgloader load file for migrating from PlanetScale MySQL to Neon PostgreSQL](https://gist.github.com/55cb48adb989e61c76b675be0e5563a9) - 2 weeks ago
 
