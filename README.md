@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `OPEN` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+
 - [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 1 month ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -45,8 +47,6 @@
 - [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 5 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 5 months ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
-
-- [Drupal 10.2](https://github.com/druidfi/spell/pull/47) - `MERGED` 5 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 
 #### 🌱 My public gists
