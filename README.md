@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 month ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) -  (1 month ago)
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (3 months ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 6 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 1 month ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
@@ -60,7 +60,7 @@
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 8 months ago
 
-- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 8 months ago
+- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 9 months ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 9 months ago
 
