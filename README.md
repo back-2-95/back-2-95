@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (today)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
@@ -12,7 +13,6 @@
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 weeks ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 month ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) -  (1 month ago)
-- [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) - Composer Plugin remove obsolete files and folders (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -27,6 +27,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [Drupal 11 Alpha 1](https://github.com/druidfi/spell/pull/54) - `OPEN` today - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
@@ -45,8 +47,6 @@
 - [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 5 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 5 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
-- [Support Symfony 7](https://github.com/SymfonyCasts/tailwind-bundle/pull/26) - `MERGED` 6 months ago - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle): Delightful Tailwind Support for Symfony &#43; AssetMapper
 
 
 #### 🌱 My public gists
