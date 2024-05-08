@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` today - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
+
 - [Drupal 11 Alpha 1](https://github.com/druidfi/spell/pull/54) - `OPEN` 1 day ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -45,8 +47,6 @@
 - [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 5 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
-
-- [PHP 8.3](https://github.com/druidfi/docker-images/pull/35) - `MERGED` 5 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 
 #### 🌱 My public gists
