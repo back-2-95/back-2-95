@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+
 - [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` 3 days ago - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
 
 - [Drupal 11 Alpha 1](https://github.com/druidfi/spell/pull/54) - `OPEN` 4 days ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
@@ -45,8 +47,6 @@
 - [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `CLOSED` 5 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [Test with PHP 8.3 and user MariaDB 10.11 LTS](https://github.com/druidfi/mysqldump-php/pull/33) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [2023 tweaks](https://github.com/druidfi/omen/pull/11) - `MERGED` 5 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 
 #### 🌱 My public gists
