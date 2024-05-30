@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (4 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (5 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 weeks ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 months ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.3](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.3), 5 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 4 weeks ago) - Multi-project local development environment &amp; toolset on Docker
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.5.3](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.5.3), 6 days ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 3 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.8.0](https://github.com/druidfi/omen/releases/tag/0.8.0), 6 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 10 months ago) - Composer Plugin remove obsolete files and folders
