@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (6 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 3 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` 3 weeks ago - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
 
