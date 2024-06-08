@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
-- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (1 week ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
+- [druidfi/guidelines](https://github.com/druidfi/guidelines) - Druid&#39;s various guidelines related to technical work (2 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
@@ -28,9 +28,9 @@
 #### 🌱 My latest PRs
 
 
-- [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` today - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 1 day ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 3 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 4 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` 1 month ago - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
 
@@ -46,7 +46,7 @@
 
 - [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 5 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `CLOSED` 5 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `CLOSED` 6 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
