@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Updater script](https://github.com/druidfi/cypress-testing/pull/3) - `OPEN` today - [druidfi/cypress-testing](https://github.com/druidfi/cypress-testing): 
+
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 5 days ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -45,8 +47,6 @@
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 3 months ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 - [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 5 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
-
-- [Use minor version as Drupal constraint](https://github.com/dunglas/frankenphp-drupal/pull/18) - `CLOSED` 6 months ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 
 #### 🌱 My public gists
