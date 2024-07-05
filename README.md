@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/cypress-testing](https://github.com/druidfi/cypress-testing) -  (2 days ago)
+- [druidfi/cypress-testing](https://github.com/druidfi/cypress-testing) -  (3 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 week ago)
@@ -30,7 +30,7 @@
 
 - [Updater script](https://github.com/druidfi/cypress-testing/pull/3) - `OPEN` 3 weeks ago - [druidfi/cypress-testing](https://github.com/druidfi/cypress-testing): 
 
-- [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 3 weeks ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 4 weeks ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `OPEN` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
@@ -56,7 +56,7 @@
 
 - [Pgloader load file for migrating from PlanetScale MySQL to Neon PostgreSQL](https://gist.github.com/55cb48adb989e61c76b675be0e5563a9) - 3 months ago
 
-- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 8 months ago
+- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 9 months ago
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 10 months ago
 
