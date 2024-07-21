@@ -36,7 +36,7 @@
 
 - [Drupal 11 Beta 1](https://github.com/druidfi/spell/pull/54) - `OPEN` 2 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 2 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 4 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
