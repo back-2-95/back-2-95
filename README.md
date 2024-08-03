@@ -21,7 +21,7 @@
 - [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.6.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.6.0), 4 weeks ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 1 month ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 3 months ago) - Multi-project local development environment &amp; toolset on Docker
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 5 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 6 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [druidfi/composer-slimmer](https://github.com/druidfi/composer-slimmer) ([0.1.2](https://github.com/druidfi/composer-slimmer/releases/tag/0.1.2), 1 year ago) - Composer Plugin remove obsolete files and folders
 
 #### 🌱 My latest PRs
