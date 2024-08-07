@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 month ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
