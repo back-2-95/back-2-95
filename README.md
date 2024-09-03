@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.6.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.6.0), 1 month ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) ([v0.6.0](https://github.com/SymfonyCasts/tailwind-bundle/releases/tag/v0.6.0), 2 months ago) - Delightful Tailwind Support for Symfony &#43; AssetMapper
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 2 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 4 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 7 months ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 3 weeks ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
+- [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 4 weeks ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 2 months ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
@@ -55,7 +55,7 @@
 
 - [Pgloader load file for migrating from PlanetScale MySQL to Neon PostgreSQL](https://gist.github.com/55cb48adb989e61c76b675be0e5563a9) - 5 months ago
 
-- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 10 months ago
+- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 11 months ago
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 1 year ago
 
