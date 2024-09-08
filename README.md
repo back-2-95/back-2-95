@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 day ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (2 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 month ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
@@ -31,7 +31,7 @@
 
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 3 months ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 4 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` 4 months ago - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
 
