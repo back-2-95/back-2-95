@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (4 weeks ago)
@@ -37,7 +37,7 @@
 
 - [Drupal 11](https://github.com/druidfi/spell/pull/54) - `MERGED` 4 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
-- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 4 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 5 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 6 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
