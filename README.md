@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
@@ -45,7 +45,7 @@
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 8 months ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
-- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 9 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 10 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 
 #### 🌱 My public gists
