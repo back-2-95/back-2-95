@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` today - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+
 - [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 2 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 4 months ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
@@ -45,8 +47,6 @@
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 7 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 8 months ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-
-- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 10 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 
 #### 🌱 My public gists
