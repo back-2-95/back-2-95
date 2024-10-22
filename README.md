@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (2 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 weeks ago)
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` today - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` 1 day ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 2 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
@@ -44,7 +44,7 @@
 
 - [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 7 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
-- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 7 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 8 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Stonehenge support using latest Docker Compose spec](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 8 months ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
