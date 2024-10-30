@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (3 days ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 weeks ago)
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (4 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (2 months ago)
@@ -41,7 +41,7 @@
 
 - [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 6 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
-- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 7 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
+- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 8 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 8 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
