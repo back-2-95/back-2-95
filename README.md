@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (3 weeks ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 month ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` 4 weeks ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 3 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
