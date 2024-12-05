@@ -11,7 +11,7 @@
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (1 month ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (1 month ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 months ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 months ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 months ago)
 - [druidfi/.github](https://github.com/druidfi/.github) -  (3 months ago)
 
 
