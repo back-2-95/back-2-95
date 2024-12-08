@@ -35,8 +35,6 @@
 
 - [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 7 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
-- [Stonehenge support](https://github.com/druidfi/starshot-prototype/pull/1) - `OPEN` 7 months ago - [druidfi/starshot-prototype](https://github.com/druidfi/starshot-prototype): Prototype of a new kind of Drupal, based on recipes and loaded up with contrib&#39;s best modules and themes. Not a fork or a distribution.
-
 - [Drupal 11](https://github.com/druidfi/spell/pull/54) - `MERGED` 7 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 7 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -46,6 +44,8 @@
 - [1.1.0 features](https://github.com/druidfi/mysqldump-php/pull/38) - `MERGED` 9 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Using Stonehenge](https://github.com/druidfi/api-platform/pull/4) - `OPEN` 9 months ago - [druidfi/api-platform](https://github.com/druidfi/api-platform): Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+
+- [Add ansible](https://github.com/druidfi/tools/pull/14) - `MERGED` 11 months ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 
 #### 🌱 My public gists
