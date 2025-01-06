@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` 2 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
@@ -35,7 +35,7 @@
 
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 7 months ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 7 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 8 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Drupal 11](https://github.com/druidfi/spell/pull/54) - `MERGED` 8 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
