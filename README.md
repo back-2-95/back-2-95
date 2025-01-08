@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `OPEN` 2 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
