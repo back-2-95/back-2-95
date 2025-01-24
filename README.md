@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (5 days ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (2 months ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -58,7 +58,7 @@
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 1 year ago
 
-- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 1 year ago
+- [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 2 years ago
 
 - [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 2 years ago
 
