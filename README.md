@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `OPEN` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
