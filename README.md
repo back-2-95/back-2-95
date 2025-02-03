@@ -3,16 +3,16 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (1 day ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (4 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 weeks ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (3 months ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (3 months ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (4 months ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (4 months ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -26,9 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 4 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 5 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
-- [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
