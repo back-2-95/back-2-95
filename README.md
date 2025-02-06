@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` today - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [Drupal 11](https://github.com/druidfi/spell/pull/54) - `MERGED` 9 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
 
 - [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 9 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
-- [1.2.5 candidate](https://github.com/druidfi/gdpr-mysqldump/pull/13) - `MERGED` 11 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 
 #### 🌱 My public gists
