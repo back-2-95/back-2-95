@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `OPEN` today - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+
 - [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` today - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -43,8 +45,6 @@
 - [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 9 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Drupal 11](https://github.com/druidfi/spell/pull/54) - `MERGED` 9 months ago - [druidfi/spell](https://github.com/druidfi/spell): Spell to summon a new Drupal project
-
-- [PHP conf changes](https://github.com/druidfi/docker-images/pull/42) - `MERGED` 9 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 
 #### 🌱 My public gists
