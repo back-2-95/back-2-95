@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (5 days ago)
 - [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 weeks ago)
@@ -26,9 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `OPEN` 4 days ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `OPEN` 5 days ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
-- [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` 4 days ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+- [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` 5 days ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
