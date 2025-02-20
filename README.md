@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (2 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
@@ -18,17 +18,17 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 months ago) - General use Docker images for projects
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 7 months ago) - Read the clouds and detect Drupal environment
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 3 months ago) - General use Docker images for projects
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 8 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 9 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 2 years ago) - Docker image which compiles CSS (from SASS) and JS files.
 
 #### 🌱 My latest PRs
 
 
-- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `OPEN` 1 week ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `OPEN` 2 weeks ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
-- [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` 1 week ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
+- [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `OPEN` 2 weeks ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 3 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
