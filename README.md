@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `OPEN` today - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
+
 - [V2](https://github.com/druidfi/gdpr-mysqldump/pull/19) - `OPEN` today - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `MERGED` 4 weeks ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
@@ -43,8 +45,6 @@
 - [Bump up requirements and support Drupal 11 and Drush 13](https://github.com/druidfi/drush-gdpr-dumper/pull/6) - `MERGED` 7 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [OpenSearch releases from 2.10 2.14](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/2) - `CLOSED` 9 months ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
-
-- [Wolfi image](https://github.com/druidfi/docker-images/pull/44) - `CLOSED` 10 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 
 #### 🌱 My public gists
