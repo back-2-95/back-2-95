@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 - [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 months ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `OPEN` 4 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `OPEN` 5 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `OPEN` 3 weeks ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
@@ -54,7 +54,7 @@
 
 - [Pgloader load file for migrating from PlanetScale MySQL to Neon PostgreSQL](https://gist.github.com/55cb48adb989e61c76b675be0e5563a9) - 1 year ago
 
-- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 1 year ago
+- [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 2 years ago
 
 - [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 2 years ago
 
