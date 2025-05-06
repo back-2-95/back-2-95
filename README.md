@@ -26,13 +26,13 @@
 #### 🌱 My latest PRs
 
 
-- [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 2 weeks ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
+- [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 3 weeks ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `OPEN` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
-- [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `CLOSED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
+- [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `CLOSED` 2 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
-- [V2](https://github.com/druidfi/gdpr-mysqldump/pull/19) - `MERGED` 1 month ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
+- [V2](https://github.com/druidfi/gdpr-mysqldump/pull/19) - `MERGED` 2 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `MERGED` 2 months ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
