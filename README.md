@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
@@ -12,7 +13,6 @@
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 months ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (6 months ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (6 months ago)
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
