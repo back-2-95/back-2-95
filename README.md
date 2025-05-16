@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` today - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+
 - [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `CLOSED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -43,8 +45,6 @@
 - [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [GHA: use Orbstack on macos runners](https://github.com/druidfi/stonehenge/pull/88) - `CLOSED` 6 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 
 #### 🌱 My public gists
