@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [#22 Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 3 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
@@ -43,8 +45,6 @@
 - [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `MERGED` 3 months ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
-- [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
