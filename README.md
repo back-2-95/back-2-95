@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 months ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 2 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+- [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 3 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
