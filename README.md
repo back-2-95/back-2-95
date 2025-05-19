@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [#22 Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 3 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
@@ -43,8 +45,6 @@
 - [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Setting SQL mode by force](https://github.com/druidfi/mysqldump-php/pull/53) - `OPEN` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [PHP 8.4](https://github.com/druidfi/mysqldump-php/pull/51) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
