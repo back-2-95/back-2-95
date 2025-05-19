@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [#22 Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
