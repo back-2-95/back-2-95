@@ -30,7 +30,7 @@
 
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 4 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
