@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` today - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
+
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `MERGED` 3 months ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 - [Article 3. Territorial integrity of Ukraine](https://github.com/back-2-95/armistice/pull/2) - `MERGED` 3 months ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
-
-- [FrankenPHP base image](https://github.com/druidfi/docker-images/pull/83) - `MERGED` 3 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 
 #### 🌱 My public gists
