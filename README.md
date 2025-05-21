@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` 1 day ago - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
@@ -43,8 +45,6 @@
 - [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `CLOSED` 2 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [V2](https://github.com/druidfi/gdpr-mysqldump/pull/19) - `MERGED` 2 months ago - [druidfi/gdpr-mysqldump](https://github.com/druidfi/gdpr-mysqldump): A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.
-
-- [Article 1. Cessation of all hostilities](https://github.com/back-2-95/armistice/pull/3) - `MERGED` 3 months ago - [back-2-95/armistice](https://github.com/back-2-95/armistice): Terms of armistice signed by Russia
 
 
 #### 🌱 My public gists
