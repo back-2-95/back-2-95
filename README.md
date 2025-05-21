@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` 1 day ago - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
 
