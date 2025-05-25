@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/stonehenge/pull/128) - `MERGED` today - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 - [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `CLOSED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
-- [v2](https://github.com/druidfi/drush-gdpr-dumper/pull/9) - `CLOSED` 2 months ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
 
 
 #### 🌱 My public gists
