@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `OPEN` today - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
+
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/stonehenge/pull/128) - `MERGED` 3 days ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 6 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 1 week ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [v4 Bump up constraints](https://github.com/druidfi/drush-gdpr-dumper/pull/10) - `MERGED` 1 month ago - [druidfi/drush-gdpr-dumper](https://github.com/druidfi/drush-gdpr-dumper): A drop-in replacement for drush sql-dump that optionally sanitizes DB fields for better GDPR conformity.
-
-- [Mautic image](https://github.com/druidfi/docker-images/pull/92) - `CLOSED` 2 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 
 #### 🌱 My public gists
