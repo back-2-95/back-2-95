@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `OPEN` today - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
+- [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `CLOSED` today - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/stonehenge/pull/128) - `MERGED` 3 days ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
