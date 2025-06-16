@@ -5,11 +5,11 @@
 
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 - [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (3 months ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 months ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (5 months ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 months ago)
 - [druidfi/renovate-test](https://github.com/druidfi/renovate-test) - Test Renovate with Composer using Drupal 10 (7 months ago)
 - [druidfi/donn](https://github.com/druidfi/donn) - Docker image which compiles CSS (from SASS) and JS files. (7 months ago)
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `CLOSED` 2 weeks ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
@@ -40,9 +40,9 @@
 
 - [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` 3 weeks ago - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
 
-- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
