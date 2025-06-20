@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (1 day ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 6 months ago) - General use Docker images for projects
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 11 months ago) - Read the clouds and detect Drupal environment
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 7 months ago) - General use Docker images for projects
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 1 year ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 1 year ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 2 years ago) - Docker image which compiles CSS (from SASS) and JS files.
 
@@ -34,7 +34,7 @@
 
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
