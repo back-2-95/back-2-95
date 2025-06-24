@@ -4,6 +4,7 @@
 
 
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (today)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (6 days ago)
@@ -12,7 +13,6 @@
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 months ago)
 - [back-2-95/armistice](https://github.com/back-2-95/armistice) - Terms of armistice signed by Russia (4 months ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (5 months ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
