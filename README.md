@@ -4,7 +4,7 @@
 
 
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (today)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
 - [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (1 week ago)
