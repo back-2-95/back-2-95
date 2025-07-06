@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `OPEN` today - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `CLOSED` 1 month ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
@@ -43,8 +45,6 @@
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add new compression options](https://github.com/druidfi/mysqldump-php/pull/55) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Mautic 6 images](https://github.com/druidfi/mautic/pull/4) - `OPEN` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 
 #### 🌱 My public gists
