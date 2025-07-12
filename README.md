@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 5 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 6 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
