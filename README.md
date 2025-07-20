@@ -5,7 +5,7 @@
 
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (2 weeks ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 weeks ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (3 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
 - [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (1 month ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 7 months ago) - General use Docker images for projects
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 8 months ago) - General use Docker images for projects
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 1 year ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.0.0](https://github.com/druidfi/stonehenge/releases/tag/5.0.0), 1 year ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 2 years ago) - Docker image which compiles CSS (from SASS) and JS files.
@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 1 week ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 2 weeks ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
@@ -36,7 +36,7 @@
 
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
