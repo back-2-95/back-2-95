@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 days ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 weeks ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (4 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 month ago)
@@ -32,7 +32,7 @@
 
 - [Fix tmp being owned by root](https://github.com/mautic/docker-mautic/pull/406) - `CLOSED` 1 month ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
-- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/stonehenge/pull/128) - `MERGED` 1 month ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/stonehenge/pull/128) - `MERGED` 2 months ago - [druidfi/stonehenge](https://github.com/druidfi/stonehenge): Multi-project local development environment &amp; toolset on Docker
 
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
