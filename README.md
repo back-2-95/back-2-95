@@ -4,8 +4,8 @@
 
 
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) -  (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (1 week ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (1 month ago)
