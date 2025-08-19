@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (2 days ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) -  (3 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (3 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) -  (4 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (2 weeks ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (1 month ago)
@@ -19,7 +19,7 @@
 
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.1.0](https://github.com/druidfi/stonehenge/releases/tag/5.1.0), 1 week ago) - Multi-project local development environment &amp; toolset on Docker
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 8 months ago) - General use Docker images for projects
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 9 months ago) - General use Docker images for projects
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 1 year ago) - Read the clouds and detect Drupal environment
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 3 years ago) - Docker image which compiles CSS (from SASS) and JS files.
 
@@ -36,7 +36,7 @@
 
 - [Create a separate DumpWriter class to handle file output](https://github.com/druidfi/mysqldump-php/pull/59) - `OPEN` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
