@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [back-2-95/suomi-some-feedit](https://github.com/back-2-95/suomi-some-feedit) -  (today)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) -  (1 day ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
@@ -12,7 +13,6 @@
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (2 weeks ago)
 - [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista (2 months ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 months ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -74,6 +74,6 @@
 #### 🌱 My latest projects
 
 
+- [back-2-95/suomi-some-feedit](https://github.com/back-2-95/suomi-some-feedit) - 
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) - 
 - [back-2-95/skoda-enyaq-fi](https://github.com/back-2-95/skoda-enyaq-fi) - Kaikenlaista infoa Skoda Enyaqista
-- [back-2-95/gha-test](https://github.com/back-2-95/gha-test) - Test Github Actions
