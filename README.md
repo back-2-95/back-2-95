@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 1 month ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
@@ -43,8 +45,6 @@
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` 3 months ago - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
-
-- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/druidfi/mysqldump-php/pull/56) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
