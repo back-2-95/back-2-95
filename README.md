@@ -26,7 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Enhance Type Safety](https://github.com/druidfi/mysqldump-php/pull/63) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -43,8 +45,6 @@
 - [Fix issue #35](https://github.com/druidfi/mysqldump-php/pull/58) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Create a separate DatabaseConnector class to handle connection logic](https://github.com/druidfi/mysqldump-php/pull/57) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Set forceAuthn true](https://github.com/back-2-95/onelogin-saml-bundle/pull/1) - `OPEN` 3 months ago - [back-2-95/onelogin-saml-bundle](https://github.com/back-2-95/onelogin-saml-bundle): OneLogin SAML Symfony Bundle
 
 
 #### 🌱 My public gists
