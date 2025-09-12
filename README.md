@@ -11,7 +11,7 @@
 - [back-2-95/suomi-some-feedit](https://github.com/back-2-95/suomi-some-feedit) -  (2 weeks ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 weeks ago)
 - [back-2-95/mastodon-poster](https://github.com/back-2-95/mastodon-poster) - Create status posts on Mastodon via REST API (3 weeks ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 weeks ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 weeks ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) -  (1 month ago)
 
 
