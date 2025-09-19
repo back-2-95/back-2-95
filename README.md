@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (5 days ago)
-- [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
+- [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (1 week ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 weeks ago)
