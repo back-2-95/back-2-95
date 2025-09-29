@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform) - Demo project on Azure with Terraform, kubectl and Traefik (today)
+- [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform) - Demo project on Azure with Terraform, kubectl and Traefik (1 day ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
@@ -26,19 +26,19 @@
 #### 🌱 My latest PRs
 
 
-- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` today - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
+- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 1 day ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
 
-- [PHP 8.1 support](https://github.com/druidfi/mysqldump-php/pull/66) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP 8.1 support](https://github.com/druidfi/mysqldump-php/pull/66) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [PHP 8.5 support](https://github.com/druidfi/mysqldump-php/pull/65) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP 8.5 support](https://github.com/druidfi/mysqldump-php/pull/65) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Refactor](https://github.com/druidfi/mysqldump-php/pull/64) - `OPEN` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Refactor](https://github.com/druidfi/mysqldump-php/pull/64) - `OPEN` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Enhance Type Safety](https://github.com/druidfi/mysqldump-php/pull/63) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Enhance Type Safety](https://github.com/druidfi/mysqldump-php/pull/63) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 2 months ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
