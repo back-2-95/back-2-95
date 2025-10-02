@@ -20,7 +20,6 @@
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.1.0](https://github.com/druidfi/stonehenge/releases/tag/5.1.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 10 months ago) - General use Docker images for projects
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 1 year ago) - Read the clouds and detect Drupal environment
 - [druidfi/donn](https://github.com/druidfi/donn) ([1.0.0](https://github.com/druidfi/donn/releases/tag/1.0.0), 3 years ago) - Docker image which compiles CSS (from SASS) and JS files.
 
 #### 🌱 My latest PRs
