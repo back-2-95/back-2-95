@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
-- [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform) - Demo project on Azure with Terraform, kubectl and Traefik (4 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (4 days ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform) - Demo project on Azure with Terraform, kubectl and Traefik (5 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (5 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 weeks ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 month ago)
 - [back-2-95/suomi-some-feedit](https://github.com/back-2-95/suomi-some-feedit) -  (1 month ago)
@@ -25,7 +25,7 @@
 #### 🌱 My latest PRs
 
 
-- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 5 days ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
+- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 6 days ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
 
 - [PHP 8.1 support](https://github.com/druidfi/mysqldump-php/pull/66) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -39,7 +39,7 @@
 
 - [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 2 months ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 3 months ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/druidfi/docker-images/pull/95) - `MERGED` 4 months ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
