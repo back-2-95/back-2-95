@@ -10,8 +10,8 @@
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
 - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform) - Demo project on Azure with Terraform, kubectl and Traefik (2 weeks ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (1 month ago)
 
 
