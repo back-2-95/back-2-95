@@ -30,7 +30,7 @@
 
 - [PHP 8.5 support](https://github.com/druidfi/mysqldump-php/pull/65) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Refactor](https://github.com/druidfi/mysqldump-php/pull/64) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Refactor](https://github.com/druidfi/mysqldump-php/pull/64) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Enhance Type Safety](https://github.com/druidfi/mysqldump-php/pull/63) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
