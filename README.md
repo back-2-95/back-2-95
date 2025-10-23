@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (today)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 day ago)
 - [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (1 week ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (1 week ago)
 - [requirecloud/traefik-blue-green-deployment](https://github.com/requirecloud/traefik-blue-green-deployment) - Make Blue/Green Deployment with Traefik (1 week ago)
@@ -18,15 +18,15 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), today) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 1 day ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 11 months ago) - General use Docker images for projects
 
 #### 🌱 My latest PRs
 
 
-- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 3 weeks ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
 
