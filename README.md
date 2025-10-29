@@ -25,6 +25,8 @@
 #### 🌱 My latest PRs
 
 
+- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `OPEN` today - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
+
 - [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `OPEN` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -42,8 +44,6 @@
 - [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [FrankenPHP 1.8.0](https://github.com/requirecloud/frankenphp/pull/4) - `MERGED` 3 months ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 
 #### 🌱 My public gists
