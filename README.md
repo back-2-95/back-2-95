@@ -4,6 +4,7 @@
 
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (today)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) - Composer Plugin remove obsolete files and folders (1 week ago)
@@ -12,7 +13,6 @@
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (3 weeks ago)
 - [requirecloud/traefik-blue-green-deployment](https://github.com/requirecloud/traefik-blue-green-deployment) - Make Blue/Green Deployment with Traefik (1 month ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 month ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
