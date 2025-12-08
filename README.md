@@ -25,6 +25,8 @@
 #### 🌱 My latest PRs
 
 
+- [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `OPEN` today - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+
 - [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 1 month ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `OPEN` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -42,8 +44,6 @@
 - [Enhance Type Safety](https://github.com/druidfi/mysqldump-php/pull/63) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Optimize memory usage](https://github.com/druidfi/mysqldump-php/pull/62) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Improve testing](https://github.com/druidfi/mysqldump-php/pull/61) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
