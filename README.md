@@ -29,7 +29,7 @@
 
 - [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 2 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
-- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `OPEN` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
