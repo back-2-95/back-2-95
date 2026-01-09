@@ -25,7 +25,7 @@
 #### 🌱 My latest PRs
 
 
-- [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `OPEN` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
