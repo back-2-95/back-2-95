@@ -25,6 +25,8 @@
 #### 🌱 My latest PRs
 
 
+- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` today - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
+
 - [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -42,8 +44,6 @@
 - [PHP 8.1 support](https://github.com/druidfi/mysqldump-php/pull/66) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP 8.5 support](https://github.com/druidfi/mysqldump-php/pull/65) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Refactor](https://github.com/druidfi/mysqldump-php/pull/64) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
