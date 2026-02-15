@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (3 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (3 days ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
@@ -25,7 +25,7 @@
 #### 🌱 My latest PRs
 
 
-- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 4 days ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
+- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 5 days ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
 - [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
