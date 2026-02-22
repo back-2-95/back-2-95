@@ -25,9 +25,9 @@
 #### 🌱 My latest PRs
 
 
-- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 1 week ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
