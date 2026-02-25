@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
@@ -25,9 +25,9 @@
 #### 🌱 My latest PRs
 
 
-- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 2 weeks ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
@@ -43,7 +43,7 @@
 
 - [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 4 months ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
+- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 5 months ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
 
 
 #### 🌱 My public gists
