@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
@@ -25,19 +25,19 @@
 #### 🌱 My latest PRs
 
 
-- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `OPEN` 6 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `OPEN` 6 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 2 weeks ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
-- [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 4 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `MERGED` 2 months ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
-- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 3 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
+- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 4 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
