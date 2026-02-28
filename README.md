@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 day ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (today)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (3 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
