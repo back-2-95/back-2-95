@@ -4,6 +4,7 @@
 
 
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (today)
+- [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (today)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (3 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
@@ -12,7 +13,6 @@
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 months ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 months ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 months ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
