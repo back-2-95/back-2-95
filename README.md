@@ -49,6 +49,8 @@
 #### 🌱 My public gists
 
 
+- [Sandboxed Claude](https://gist.github.com/6297e848b6a49725ff875b1bac6cfea4) - today
+
 - [Create Drupal contribution setup using Stonehenge](https://gist.github.com/ab8f16dea7ff2222966613392ee88ce3) - 2 years ago
 
 - [Pgloader load file for migrating from PlanetScale MySQL to Neon PostgreSQL](https://gist.github.com/55cb48adb989e61c76b675be0e5563a9) - 2 years ago
@@ -66,8 +68,6 @@
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 3 years ago
 
 - [Use Tailwindcss 3 with Symfony 5/6](https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f) - 4 years ago
-
-- [Convert Drupal 7 tables to utf8mb4](https://gist.github.com/ef42b2ce2f464cd2ce5bd5fb579ab3ab) - 4 years ago
 
 
 #### 🌱 My latest projects
