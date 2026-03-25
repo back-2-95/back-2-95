@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (today)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
@@ -12,7 +13,6 @@
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (3 weeks ago)
-- [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -20,10 +20,13 @@
 
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 5 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 1 year ago) - General use Docker images for projects
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.0](https://github.com/druidfi/omen/releases/tag/0.9.0), 2 years ago) - Read the clouds and detect Drupal environment
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 2 years ago) - Composer Plugin remove obsolete files and folders
 
 #### 🌱 My latest PRs
 
+
+- [Support Upsun](https://github.com/druidfi/omen/pull/13) - `MERGED` today - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -42,8 +45,6 @@
 - [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [PHP attributes](https://github.com/druidfi/mysqldump-php/pull/67) - `CLOSED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [AKS monitor](https://github.com/back-2-95/azure-terraform/pull/2) - `OPEN` 5 months ago - [back-2-95/azure-terraform](https://github.com/back-2-95/azure-terraform): Demo project on Azure with Terraform, kubectl and Traefik
 
 
 #### 🌱 My public gists
