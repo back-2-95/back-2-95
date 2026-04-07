@@ -34,7 +34,7 @@
 
 - [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `OPEN` 1 month ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
+- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `CLOSED` 1 month ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
 - [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
