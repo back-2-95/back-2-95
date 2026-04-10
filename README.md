@@ -4,14 +4,14 @@
 
 
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
-- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (4 days ago)
-- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (4 days ago)
-- [back-2-95/xposts](https://github.com/back-2-95/xposts) -  (4 days ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (4 days ago)
+- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (4 days ago)
+- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (4 days ago)
+- [back-2-95/xposts](https://github.com/back-2-95/xposts) -  (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (2 weeks ago)
 
 
