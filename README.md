@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (3 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (1 week ago)
