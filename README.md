@@ -3,16 +3,16 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 day ago)
-- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (1 day ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 days ago)
+- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (2 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
-- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (2 weeks ago)
-- [back-2-95/xposts](https://github.com/back-2-95/xposts) -  (2 weeks ago)
+- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (3 weeks ago)
+- [back-2-95/xposts](https://github.com/back-2-95/xposts) -  (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -36,13 +36,13 @@
 
 - [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `CLOSED` 2 months ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
-- [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `MERGED` 4 months ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
-- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 5 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
+- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 6 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 - [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 6 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
