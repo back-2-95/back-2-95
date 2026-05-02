@@ -3,16 +3,16 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 day ago)
-- [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (1 day ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (4 days ago)
-- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 days ago)
+- [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (2 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
+- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
