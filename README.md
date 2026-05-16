@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (2 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (3 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (2 weeks ago)
-- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (2 weeks ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 weeks ago)
+- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (3 weeks ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (4 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 month ago)
 
 
@@ -20,7 +20,7 @@
 
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.1](https://github.com/druidfi/omen/releases/tag/0.9.1), 1 month ago) - Read the clouds and detect Drupal environment
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 6 months ago) - Multi-project local development environment &amp; toolset on Docker
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 1 year ago) - General use Docker images for projects
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 2 years ago) - Composer Plugin remove obsolete files and folders
 
 #### 🌱 My latest PRs
