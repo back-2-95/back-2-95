@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (6 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (5 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (2 weeks ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (3 weeks ago)
@@ -19,7 +19,7 @@
 
 
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.1](https://github.com/druidfi/omen/releases/tag/0.9.1), 1 month ago) - Read the clouds and detect Drupal environment
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 6 months ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 7 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 2 years ago) - Composer Plugin remove obsolete files and folders
 
@@ -44,7 +44,7 @@
 
 - [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 6 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
-- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 6 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 7 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
