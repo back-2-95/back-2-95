@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `OPEN` today - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+
 - [Add PHP 8.5 support](https://github.com/druidfi/omen/pull/14) - `MERGED` 1 month ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [Support Upsun](https://github.com/druidfi/omen/pull/13) - `MERGED` 1 month ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
@@ -43,8 +45,6 @@
 - [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `MERGED` 5 months ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 6 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
-
-- [Use PHP native attributes](https://github.com/druidfi/mysqldump-php/pull/68) - `MERGED` 7 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
