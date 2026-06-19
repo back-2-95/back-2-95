@@ -19,14 +19,14 @@
 
 
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.1](https://github.com/druidfi/omen/releases/tag/0.9.1), 2 months ago) - Read the clouds and detect Drupal environment
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 7 months ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.2.0](https://github.com/druidfi/stonehenge/releases/tag/5.2.0), 8 months ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 2 years ago) - Composer Plugin remove obsolete files and folders
 
 #### 🌱 My latest PRs
 
 
-- [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 4 weeks ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+- [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [Add PHP 8.5 support](https://github.com/druidfi/omen/pull/14) - `MERGED` 2 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
