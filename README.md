@@ -5,10 +5,10 @@
 
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
-- [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (4 weeks ago)
+- [UniversityofHelsinki/HelsinkiBrainAndMind-legacy](https://github.com/UniversityofHelsinki/HelsinkiBrainAndMind-legacy) - HelsinkiBrainAndMind (legacy) (1 month ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
 - [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (1 month ago)
@@ -32,9 +32,9 @@
 
 - [Support Upsun](https://github.com/druidfi/omen/pull/13) - `MERGED` 2 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
-- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `MERGED` 3 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `CLOSED` 4 months ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
 
