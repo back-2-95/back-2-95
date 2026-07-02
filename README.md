@@ -26,6 +26,12 @@
 #### 🌱 My latest PRs
 
 
+- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [chore: PHP 8.4 modernization for 3.x](https://github.com/druidfi/mysqldump-php/pull/85) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [chore: update 3.x task list and skip CI for docs-only changes](https://github.com/druidfi/mysqldump-php/pull/84) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Add branch status badges to README](https://github.com/druidfi/mysqldump-php/pull/83) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -39,12 +45,6 @@
 - [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [Add PHP 8.5 support](https://github.com/druidfi/omen/pull/14) - `MERGED` 3 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
-
-- [Support Upsun](https://github.com/druidfi/omen/pull/13) - `MERGED` 3 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
-
-- [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
