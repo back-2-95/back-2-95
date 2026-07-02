@@ -26,6 +26,16 @@
 #### 🌱 My latest PRs
 
 
+- [Add branch status badges to README](https://github.com/druidfi/mysqldump-php/pull/83) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [Start 3.x development: require PHP 8.4&#43;](https://github.com/druidfi/mysqldump-php/pull/81) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [Fix PHPStan findings and update actions/checkout to v7](https://github.com/druidfi/mysqldump-php/pull/80) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [Update PHPUnit to ^10.5](https://github.com/druidfi/mysqldump-php/pull/79) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [Add PHP 8.5 support](https://github.com/druidfi/omen/pull/14) - `MERGED` 3 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
@@ -35,16 +45,6 @@
 - [Fix compress-level setting ignored in CompressGzip](https://github.com/druidfi/mysqldump-php/pull/78) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Fix include-tables list being cleared, causing full database dump](https://github.com/druidfi/mysqldump-php/pull/77) - `MERGED` 4 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Improve Docker build and make image smaller](https://github.com/mautic/docker-mautic/pull/472) - `CLOSED` 4 months ago - [mautic/docker-mautic](https://github.com/mautic/docker-mautic): Docker Image for Mautic
-
-- [Add CLAUDE.md for AI assistant guidance](https://github.com/druidfi/mysqldump-php/pull/74) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Add Rector](https://github.com/druidfi/mysqldump-php/pull/72) - `MERGED` 5 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Mautic 5.2.9 security update](https://github.com/druidfi/mautic/pull/7) - `MERGED` 6 months ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
-
-- [PHP 8.5](https://github.com/requirecloud/composer-slimmer/pull/13) - `MERGED` 8 months ago - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer): Composer Plugin remove obsolete files and folders
 
 
 #### 🌱 My public gists
