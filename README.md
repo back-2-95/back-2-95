@@ -26,7 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [chore: PHP 8.4 modernization for 3.x](https://github.com/druidfi/mysqldump-php/pull/85) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -43,8 +45,6 @@
 - [Update PHPUnit to ^10.5](https://github.com/druidfi/mysqldump-php/pull/79) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
-
-- [Add PHP 8.5 support](https://github.com/druidfi/omen/pull/14) - `MERGED` 3 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 
 #### 🌱 My public gists
