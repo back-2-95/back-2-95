@@ -26,6 +26,12 @@
 #### 🌱 My latest PRs
 
 
+- [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [refactor: dedupe iterate generators, drop getDatabaseStructure no-ops](https://github.com/druidfi/mysqldump-php/pull/88) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -39,12 +45,6 @@
 - [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Start 3.x development: require PHP 8.4&#43;](https://github.com/druidfi/mysqldump-php/pull/81) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Fix PHPStan findings and update actions/checkout to v7](https://github.com/druidfi/mysqldump-php/pull/80) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Update PHPUnit to ^10.5](https://github.com/druidfi/mysqldump-php/pull/79) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Hotfix Symfony and Twig packages](https://github.com/druidfi/mautic/pull/16) - `MERGED` 1 month ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 
 #### 🌱 My public gists
