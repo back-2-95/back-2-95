@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (4 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
@@ -26,25 +26,25 @@
 #### 🌱 My latest PRs
 
 
-- [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `OPEN` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [refactor: dedupe iterate generators, drop getDatabaseStructure no-ops](https://github.com/druidfi/mysqldump-php/pull/88) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [refactor: dedupe iterate generators, drop getDatabaseStructure no-ops](https://github.com/druidfi/mysqldump-php/pull/88) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [chore: PHP 8.4 modernization for 3.x](https://github.com/druidfi/mysqldump-php/pull/85) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [chore: PHP 8.4 modernization for 3.x](https://github.com/druidfi/mysqldump-php/pull/85) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [chore: update 3.x task list and skip CI for docs-only changes](https://github.com/druidfi/mysqldump-php/pull/84) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [chore: update 3.x task list and skip CI for docs-only changes](https://github.com/druidfi/mysqldump-php/pull/84) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Add branch status badges to README](https://github.com/druidfi/mysqldump-php/pull/83) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add branch status badges to README](https://github.com/druidfi/mysqldump-php/pull/83) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [Start 3.x development: require PHP 8.4&#43;](https://github.com/druidfi/mysqldump-php/pull/81) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [Start 3.x development: require PHP 8.4&#43;](https://github.com/druidfi/mysqldump-php/pull/81) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
@@ -62,7 +62,7 @@
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 2 years ago
 
-- [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 2 years ago
+- [Lagoon Docker Compose setup](https://gist.github.com/df26f936d242e560c8b4030b7c1d97a7) - 3 years ago
 
 - [Change Drupal profile with profile switcher](https://gist.github.com/c3f5453655dd21633bf9fbdd1bd5f55d) - 3 years ago
 
