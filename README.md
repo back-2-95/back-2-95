@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [refactor: extract table data dumping into TableDataDumper class](https://github.com/druidfi/mysqldump-php/pull/91) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [Add branch status badges to README](https://github.com/druidfi/mysqldump-php/pull/83) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Add MySQL 8.4 LTS to 2.x CI matrix](https://github.com/druidfi/mysqldump-php/pull/82) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [Start 3.x development: require PHP 8.4&#43;](https://github.com/druidfi/mysqldump-php/pull/81) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
