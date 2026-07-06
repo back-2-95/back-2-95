@@ -26,7 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [fix: return actual types from DumpSettings::get() instead of string cast](https://github.com/druidfi/mysqldump-php/pull/95) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [fix: escape identifiers consistently when interpolated into SQL](https://github.com/druidfi/mysqldump-php/pull/96) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [fix: return actual types from DumpSettings::get() instead of string cast](https://github.com/druidfi/mysqldump-php/pull/95) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [refactor: dedupe structure extractors and break up TableDataDumper::dump()](https://github.com/druidfi/mysqldump-php/pull/94) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -43,8 +45,6 @@
 - [refactor: dedupe iterate generators, drop getDatabaseStructure no-ops](https://github.com/druidfi/mysqldump-php/pull/88) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [fix: improve dependency wiring (task 2)](https://github.com/druidfi/mysqldump-php/pull/86) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
