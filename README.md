@@ -26,6 +26,10 @@
 #### 🌱 My latest PRs
 
 
+- [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [docs: add security policy and credential practices documentation](https://github.com/druidfi/mysqldump-php/pull/99) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
 - [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -41,10 +45,6 @@
 - [feat: add ConnectionInterface for swappable database connections](https://github.com/druidfi/mysqldump-php/pull/92) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [refactor: extract table data dumping into TableDataDumper class](https://github.com/druidfi/mysqldump-php/pull/91) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
