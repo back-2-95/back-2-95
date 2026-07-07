@@ -26,7 +26,9 @@
 #### 🌱 My latest PRs
 
 
-- [perf: free column type maps once each table or view is dumped](https://github.com/druidfi/mysqldump-php/pull/101) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [perf: free column type maps once each table or view is dumped](https://github.com/druidfi/mysqldump-php/pull/101) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -43,8 +45,6 @@
 - [refactor: dedupe structure extractors and break up TableDataDumper::dump()](https://github.com/druidfi/mysqldump-php/pull/94) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [chore(docker): use php:8.5 GA image instead of 8.5.0beta2](https://github.com/druidfi/mysqldump-php/pull/93) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [feat: add ConnectionInterface for swappable database connections](https://github.com/druidfi/mysqldump-php/pull/92) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
