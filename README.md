@@ -26,7 +26,11 @@
 #### 🌱 My latest PRs
 
 
-- [fix: escape identifiers consistently when interpolated into SQL](https://github.com/druidfi/mysqldump-php/pull/96) - `OPEN` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+
+- [fix: escape identifiers consistently when interpolated into SQL](https://github.com/druidfi/mysqldump-php/pull/96) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [fix: return actual types from DumpSettings::get() instead of string cast](https://github.com/druidfi/mysqldump-php/pull/95) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
@@ -41,10 +45,6 @@
 - [feat: add custom exception hierarchy](https://github.com/druidfi/mysqldump-php/pull/90) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [chore(phpstan): raise analysis level from 5 to 6](https://github.com/druidfi/mysqldump-php/pull/89) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [refactor: dedupe iterate generators, drop getDatabaseStructure no-ops](https://github.com/druidfi/mysqldump-php/pull/88) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [docs: add &#39;Upgrading from 2.x to 3.x&#39; section to README](https://github.com/druidfi/mysqldump-php/pull/87) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
