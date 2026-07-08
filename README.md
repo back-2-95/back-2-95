@@ -26,7 +26,7 @@
 #### 🌱 My latest PRs
 
 
-- [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `OPEN` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` today - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
