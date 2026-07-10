@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Fix ConflictingHeadersException on generic reverse-proxy hosting](https://github.com/druidfi/omen/pull/16) - `OPEN` today - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+
 - [feat: add dependency-free Anonymizer helpers for GDPR-sanitizing dumps](https://github.com/druidfi/mysqldump-php/pull/104) - `MERGED` 1 day ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 2 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
@@ -43,8 +45,6 @@
 - [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` 3 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [fix: escape identifiers consistently when interpolated into SQL](https://github.com/druidfi/mysqldump-php/pull/96) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [fix: return actual types from DumpSettings::get() instead of string cast](https://github.com/druidfi/mysqldump-php/pull/95) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
