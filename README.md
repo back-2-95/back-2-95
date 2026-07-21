@@ -3,16 +3,16 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (3 weeks ago)
-- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (3 weeks ago)
-- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (3 weeks ago)
-- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (3 weeks ago)
+- [back-2-95/blue-green-app](https://github.com/back-2-95/blue-green-app) - Test repo for Blue Green deployments with Traefik (4 weeks ago)
+- [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (4 weeks ago)
+- [requirecloud/gha-workflows](https://github.com/requirecloud/gha-workflows) - Reusable Github Actions workflows (4 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -32,17 +32,17 @@
 
 - [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [perf: free column type maps once each table or view is dumped](https://github.com/druidfi/mysqldump-php/pull/101) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [perf: free column type maps once each table or view is dumped](https://github.com/druidfi/mysqldump-php/pull/101) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [docs: add security policy and credential practices documentation](https://github.com/druidfi/mysqldump-php/pull/99) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [docs: add security policy and credential practices documentation](https://github.com/druidfi/mysqldump-php/pull/99) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` 1 week ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [fix: escape identifiers consistently when interpolated into SQL](https://github.com/druidfi/mysqldump-php/pull/96) - `MERGED` 2 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
