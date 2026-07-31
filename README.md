@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `OPEN` today - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
+
 - [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Fix ConflictingHeadersException on generic reverse-proxy hosting](https://github.com/druidfi/omen/pull/16) - `OPEN` 3 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
@@ -43,8 +45,6 @@
 - [docs: add security policy and credential practices documentation](https://github.com/druidfi/mysqldump-php/pull/99) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [ci: replace frozen Bitnami database images with official ones](https://github.com/druidfi/mysqldump-php/pull/97) - `MERGED` 3 weeks ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
