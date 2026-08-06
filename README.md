@@ -12,7 +12,7 @@
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
