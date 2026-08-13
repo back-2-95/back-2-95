@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (5 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (6 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
 - [requirecloud/n8n-local](https://github.com/requirecloud/n8n-local) - Locally running n8n setup with Docker Compose (1 week ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
@@ -28,7 +28,7 @@
 
 - [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `MERGED` 1 week ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-- [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 2 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 3 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Fix ConflictingHeadersException on generic reverse-proxy hosting](https://github.com/druidfi/omen/pull/16) - `OPEN` 1 month ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
@@ -58,7 +58,7 @@
 
 - [Drush script to fix mismatch entity and/or field definitions](https://gist.github.com/1a4e94e236d690096790aeb897d61304) - 2 years ago
 
-- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 2 years ago
+- [How to get PHP CodeSniffer for Drupal working in PhpStorm](https://gist.github.com/7ee7cc712562a3d5396555f2c3aaf6f7) - 3 years ago
 
 - [Wodby: Upgrade Debian 9 to 11](https://gist.github.com/6ec9a8d9a133801146b990c1c101197d) - 3 years ago
 
