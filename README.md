@@ -26,6 +26,8 @@
 #### 🌱 My latest PRs
 
 
+- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `OPEN` today - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+
 - [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `MERGED` 3 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
 - [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 4 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
@@ -43,8 +45,6 @@
 - [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [docs: add security policy and credential practices documentation](https://github.com/druidfi/mysqldump-php/pull/99) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [feat(ci): add MariaDB 11.8 LTS to the test matrix](https://github.com/druidfi/mysqldump-php/pull/98) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
