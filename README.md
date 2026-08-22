@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 days ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
@@ -26,13 +26,13 @@
 #### 🌱 My latest PRs
 
 
-- [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` today - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 1 day ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `OPEN` today - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `OPEN` 1 day ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `MERGED` 3 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
-- [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 4 weeks ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [fix(php,frankenphp): stop vendor/bin from shadowing system composer](https://github.com/druidfi/docker-images/pull/147) - `MERGED` 1 month ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Fix ConflictingHeadersException on generic reverse-proxy hosting](https://github.com/druidfi/omen/pull/16) - `OPEN` 1 month ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
