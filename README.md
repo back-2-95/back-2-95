@@ -28,7 +28,7 @@
 
 - [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 1 day ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `OPEN` 1 day ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `CLOSED` 1 day ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `MERGED` 3 weeks ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
