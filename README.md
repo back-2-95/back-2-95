@@ -10,8 +10,8 @@
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 weeks ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 weeks ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (3 weeks ago)
 
 
