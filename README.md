@@ -27,6 +27,8 @@
 #### 🌱 My latest PRs
 
 
+- [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `OPEN` today - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
+
 - [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 2 weeks ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `CLOSED` 2 weeks ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
@@ -44,8 +46,6 @@
 - [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [perf: free column type maps once each table or view is dumped](https://github.com/druidfi/mysqldump-php/pull/101) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [docs: document dumping to stream wrappers (cloud storage)](https://github.com/druidfi/mysqldump-php/pull/100) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
