@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 day ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 days ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (3 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (2 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 week ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 week ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 week ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 week ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (4 weeks ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 month ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 month ago)
 
 
@@ -27,7 +27,7 @@
 #### 🌱 My latest PRs
 
 
-- [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `OPEN` 1 day ago - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
+- [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `OPEN` 2 days ago - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
 
 - [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 2 weeks ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
@@ -41,7 +41,7 @@
 
 - [feat: add dependency-free Anonymizer helpers for GDPR-sanitizing dumps](https://github.com/druidfi/mysqldump-php/pull/104) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
-- [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 1 month ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
