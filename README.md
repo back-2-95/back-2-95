@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 week ago)
+- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (2 weeks ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 weeks ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 weeks ago)
 - [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (2 weeks ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 month ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), today) - Multi-project local development environment &amp; toolset on Docker
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.0](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.0), 1 week ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 1 day ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.0](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.0), 2 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.2](https://github.com/druidfi/omen/releases/tag/0.9.2), 1 month ago) - Read the clouds and detect Drupal environment
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 3 years ago) - Composer Plugin remove obsolete files and folders
@@ -27,11 +27,11 @@
 #### 🌱 My latest PRs
 
 
-- [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `CLOSED` 6 days ago - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
+- [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `CLOSED` 1 week ago - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
 
-- [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 2 weeks ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [Add OpenSearch 3.x support](https://github.com/back-2-95/opensearch-analysis-raudikko/pull/1) - `OPEN` 3 weeks ago - [back-2-95/opensearch-analysis-raudikko](https://github.com/back-2-95/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
-- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `CLOSED` 2 weeks ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
+- [Add OpenSearch 3.x support](https://github.com/EvidentSolutions/opensearch-analysis-raudikko/pull/5) - `CLOSED` 3 weeks ago - [EvidentSolutions/opensearch-analysis-raudikko](https://github.com/EvidentSolutions/opensearch-analysis-raudikko): Finnish language analysis for OpenSearch using Raudikko
 
 - [Drupal 11.4 and PHP 8.4](https://github.com/dunglas/frankenphp-drupal/pull/32) - `MERGED` 1 month ago - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal): Drupal on FrankenPHP
 
