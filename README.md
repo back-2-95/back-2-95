@@ -28,6 +28,8 @@
 #### 🌱 My latest PRs
 
 
+- [Support DRUPAL_URL for the DruidXPBundle Drupal link](https://github.com/druidfi/mautic/pull/23) - `OPEN` today - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
+
 - [Add Reader::eject() to generate a static settings.php](https://github.com/druidfi/omen/pull/17) - `OPEN` 1 week ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [Fix service id for EncryptionHelper broken by Mautic 7.2.0](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/pull/12) - `CLOSED` 3 weeks ago - [FireMultimedia/mautic-multi-captcha-bundle](https://github.com/FireMultimedia/mautic-multi-captcha-bundle): This plugin brings Google&#39;s reCAPTCHA, hCaptcha, and Cloudflare Turnstile integration to Mautic 5, 6 &amp; 7.
@@ -45,8 +47,6 @@
 - [feat: add dependency-free Anonymizer helpers for GDPR-sanitizing dumps](https://github.com/druidfi/mysqldump-php/pull/104) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [test: broaden dump-settings coverage in integration tests](https://github.com/druidfi/mysqldump-php/pull/102) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
