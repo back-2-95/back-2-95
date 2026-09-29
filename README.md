@@ -3,21 +3,22 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 days ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (5 days ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (5 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (5 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 month ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.0](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.0), today) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0), 5 days ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 6 days ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 2 weeks ago) - Multi-project local development environment &amp; toolset on Docker
