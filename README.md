@@ -29,6 +29,8 @@
 #### 🌱 My latest PRs
 
 
+- [Allow access to llms.txt and llms-full.txt in drupal-web Nginx](https://github.com/druidfi/docker-images/pull/166) - `MERGED` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+
 - [Support DRUPAL_URL for the DruidXPBundle Drupal link](https://github.com/druidfi/mautic/pull/23) - `OPEN` 5 days ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 - [Add Reader::eject() to generate a static settings.php](https://github.com/druidfi/omen/pull/17) - `OPEN` 2 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
@@ -46,8 +48,6 @@
 - [Fix ConflictingHeadersException on generic reverse-proxy hosting](https://github.com/druidfi/omen/pull/16) - `OPEN` 2 months ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [feat: add dependency-free Anonymizer helpers for GDPR-sanitizing dumps](https://github.com/druidfi/mysqldump-php/pull/104) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
-
-- [feat: return null from the row transform hook to skip a row](https://github.com/druidfi/mysqldump-php/pull/103) - `MERGED` 2 months ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 
 #### 🌱 My public gists
