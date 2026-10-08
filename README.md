@@ -3,25 +3,25 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 day ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 days ago)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (4 days ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (5 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (5 days ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (2 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (4 days ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (5 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (6 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (1 week ago)
 - [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (1 week ago)
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 week ago)
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.4](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.4), 2 days ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.4](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.4), 3 days ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.0](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.0), 1 week ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 2 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 3 weeks ago) - Multi-project local development environment &amp; toolset on Docker
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 4 weeks ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.2](https://github.com/druidfi/omen/releases/tag/0.9.2), 2 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 3 years ago) - Composer Plugin remove obsolete files and folders
@@ -29,17 +29,17 @@
 #### 🌱 My latest PRs
 
 
-- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 2 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 2 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 2 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 4 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
+- [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 5 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
-- [Harden backup scripts and hide repository names from logs](https://github.com/druidfi/git-backupper/pull/29) - `MERGED` 4 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
+- [Harden backup scripts and hide repository names from logs](https://github.com/druidfi/git-backupper/pull/29) - `MERGED` 5 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
-- [Harden backup workflow: no cache hand-off, failure reporting, skip options](https://github.com/druidfi/git-backupper/pull/28) - `MERGED` 4 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
+- [Harden backup workflow: no cache hand-off, failure reporting, skip options](https://github.com/druidfi/git-backupper/pull/28) - `MERGED` 5 days ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
 - [Serve text files with UTF-8 charset in drupal-web Nginx](https://github.com/druidfi/docker-images/pull/167) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
