@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (1 day ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 day ago)
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 day ago)
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 day ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (2 days ago)
+- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (2 days ago)
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (2 days ago)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.4](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.4), 5 days ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.4](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.4), 6 days ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.0](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.0), 1 week ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 2 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
@@ -29,11 +29,11 @@
 #### 🌱 My latest PRs
 
 
-- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 4 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 4 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 4 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 1 week ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
