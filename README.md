@@ -29,6 +29,8 @@
 #### 🌱 My latest PRs
 
 
+- [Fix /opt/ssl directory permissions in PHP images](https://github.com/druidfi/docker-images/pull/172) - `OPEN` today - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+
 - [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 4 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 4 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
@@ -46,8 +48,6 @@
 - [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
 - [Harden backup scripts and hide repository names from logs](https://github.com/druidfi/git-backupper/pull/29) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
-
-- [Harden backup workflow: no cache hand-off, failure reporting, skip options](https://github.com/druidfi/git-backupper/pull/28) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
 
 #### 🌱 My public gists
