@@ -3,24 +3,24 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (2 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (3 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (6 days ago)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (6 days ago)
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (1 week ago)
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 week ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
+- [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (3 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (4 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (4 days ago)
+- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (1 week ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 week ago)
+- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 week ago)
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.1](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.1), today) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.5](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.5), today) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 3 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.1](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.1), 1 day ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.5](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.5), 1 day ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
+- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 4 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.2](https://github.com/druidfi/omen/releases/tag/0.9.2), 2 months ago) - Read the clouds and detect Drupal environment
 - [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
@@ -29,11 +29,11 @@
 #### 🌱 My latest PRs
 
 
-- [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 3 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 4 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
-- [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 3 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 4 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Publish images to GHCR only, stop pushing to Docker Hub](https://github.com/druidfi/docker-images/pull/170) - `MERGED` 6 days ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
+- [Publish images to GHCR only, stop pushing to Docker Hub](https://github.com/druidfi/docker-images/pull/170) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Disable updates to tool constraints in Renovate config](https://github.com/druidfi/renovate-config/pull/5) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
