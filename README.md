@@ -4,7 +4,6 @@
 
 
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) - General use Docker images for projects (today)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 days ago)
@@ -13,6 +12,7 @@
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 week ago)
 - [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
+- [back-2-95/ansible-role-valkey](https://github.com/back-2-95/ansible-role-valkey) -  (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -23,19 +23,14 @@
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 4 weeks ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.2](https://github.com/druidfi/omen/releases/tag/0.9.2), 2 months ago) - Read the clouds and detect Drupal environment
-- [druidfi/docker-images](https://github.com/druidfi/docker-images) ([php-8.1-last](https://github.com/druidfi/docker-images/releases/tag/php-8.1-last), 2 years ago) - General use Docker images for projects
 - [requirecloud/composer-slimmer](https://github.com/requirecloud/composer-slimmer) ([0.1.2](https://github.com/requirecloud/composer-slimmer/releases/tag/0.1.2), 3 years ago) - Composer Plugin remove obsolete files and folders
 
 #### 🌱 My latest PRs
 
 
-- [Fix /opt/ssl directory permissions in PHP images](https://github.com/druidfi/docker-images/pull/172) - `MERGED` 1 day ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
-
 - [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 5 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
-
-- [Publish images to GHCR only, stop pushing to Docker Hub](https://github.com/druidfi/docker-images/pull/170) - `MERGED` 1 week ago - [druidfi/docker-images](https://github.com/druidfi/docker-images): General use Docker images for projects
 
 - [Disable updates to tool constraints in Renovate config](https://github.com/druidfi/renovate-config/pull/5) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
@@ -48,6 +43,10 @@
 - [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
 - [Harden backup scripts and hide repository names from logs](https://github.com/druidfi/git-backupper/pull/29) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
+
+- [Harden backup workflow: no cache hand-off, failure reporting, skip options](https://github.com/druidfi/git-backupper/pull/28) - `MERGED` 2 weeks ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
+
+- [Support DRUPAL_URL for the DruidXPBundle Drupal link](https://github.com/druidfi/mautic/pull/23) - `MERGED` 3 weeks ago - [druidfi/mautic](https://github.com/druidfi/mautic): DruidXP variant for Mautic
 
 
 #### 🌱 My public gists
