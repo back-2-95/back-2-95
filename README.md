@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (today)
-- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 day ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 days ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (5 days ago)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 day ago)
+- [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 days ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (6 days ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 week ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (2 weeks ago)
@@ -18,8 +18,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.3](https://github.com/druidfi/omen/releases/tag/0.9.3), 1 day ago) - Read the clouds and detect Drupal environment
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.2](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.2), 1 day ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
+- [druidfi/omen](https://github.com/druidfi/omen) ([0.9.3](https://github.com/druidfi/omen/releases/tag/0.9.3), 2 days ago) - Read the clouds and detect Drupal environment
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.2](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.2), 2 days ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
 - [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.5](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.5), 1 week ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 1 month ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 1 month ago) - Multi-project local development environment &amp; toolset on Docker
@@ -28,7 +28,7 @@
 #### 🌱 My latest PRs
 
 
-- [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 1 day ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
+- [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 2 days ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 - [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 1 week ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
