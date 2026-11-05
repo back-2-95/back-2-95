@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (6 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (1 week ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
@@ -35,11 +35,11 @@
 
 - [Disable updates to tool constraints in Renovate config](https://github.com/druidfi/renovate-config/pull/5) - `MERGED` 3 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 4 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for php Docker image](https://github.com/druidfi/renovate-config/pull/4) - `MERGED` 1 month ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 4 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Only ignore php in composer, not php Docker images](https://github.com/druidfi/renovate-config/pull/3) - `MERGED` 1 month ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 4 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony preset: only patch updates for drupal-web image](https://github.com/druidfi/renovate-config/pull/2) - `MERGED` 1 month ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Harden Docker image](https://github.com/druidfi/git-backupper/pull/30) - `MERGED` 1 month ago - [druidfi/git-backupper](https://github.com/druidfi/git-backupper): Backup Git repositories and sync them to S3 compliant storage
 
