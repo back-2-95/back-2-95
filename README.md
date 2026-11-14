@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (today)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (today)
-- [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (2 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 day ago)
+- [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (3 days ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
@@ -27,17 +27,17 @@
 #### 🌱 My latest PRs
 
 
-- [Symfony: don&#39;t propose minor/major bumps for druidfi/symfony-minor-pin](https://github.com/druidfi/renovate-config/pull/9) - `MERGED` today - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony: don&#39;t propose minor/major bumps for druidfi/symfony-minor-pin](https://github.com/druidfi/renovate-config/pull/9) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony: keep security updates within the current minor](https://github.com/druidfi/renovate-config/pull/8) - `MERGED` today - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony: keep security updates within the current minor](https://github.com/druidfi/renovate-config/pull/8) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 1 day ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 2 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 2 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
-- [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 3 weeks ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 4 weeks ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
-- [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 3 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Disable major updates for MySQL and MariaDB images](https://github.com/druidfi/renovate-config/pull/6) - `MERGED` 4 weeks ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Disable updates to tool constraints in Renovate config](https://github.com/druidfi/renovate-config/pull/5) - `MERGED` 1 month ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
@@ -69,7 +69,7 @@
 
 - [Trigger Lagoon deployment from Azure pipeline](https://gist.github.com/bb73dc3d76cdae889ed4bd87930682f9) - 4 years ago
 
-- [Use Tailwindcss 3 with Symfony 5/6](https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f) - 4 years ago
+- [Use Tailwindcss 3 with Symfony 5/6](https://gist.github.com/3d059e4443ee8f028ab5c8c20b602b2f) - 5 years ago
 
 
 #### 🌱 My latest projects
