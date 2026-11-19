@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (5 days ago)
-- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (5 days ago)
-- [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (5 days ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (6 days ago)
+- [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (6 days ago)
+- [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (6 days ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (1 week ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 week ago)
-- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (2 weeks ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 weeks ago)
+- [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 month ago)
@@ -20,18 +20,18 @@
 
 - [druidfi/omen](https://github.com/druidfi/omen) ([0.9.3](https://github.com/druidfi/omen/releases/tag/0.9.3), 3 weeks ago) - Read the clouds and detect Drupal environment
 - [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) ([1.0.2](https://github.com/druidfi/mautic-altcha-bundle/releases/tag/1.0.2), 3 weeks ago) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests
-- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.5](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.5), 4 weeks ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
+- [druidfi/symfony-altcha-bundle](https://github.com/druidfi/symfony-altcha-bundle) ([1.0.5](https://github.com/druidfi/symfony-altcha-bundle/releases/tag/1.0.5), 1 month ago) - Altcha CAPTCHA integration for Symfony — form type, validator, and self-hosted/Sentinel support
 - [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) ([1.1](https://github.com/druidfi/mautic-bounce-webhook-bundle/releases/tag/1.1), 1 month ago) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic.
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) ([5.3.0](https://github.com/druidfi/stonehenge/releases/tag/5.3.0), 2 months ago) - Multi-project local development environment &amp; toolset on Docker
 
 #### 🌱 My latest PRs
 
 
-- [Symfony: don&#39;t propose minor/major bumps for druidfi/symfony-minor-pin](https://github.com/druidfi/renovate-config/pull/9) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony: don&#39;t propose minor/major bumps for druidfi/symfony-minor-pin](https://github.com/druidfi/renovate-config/pull/9) - `MERGED` 6 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Symfony: keep security updates within the current minor](https://github.com/druidfi/renovate-config/pull/8) - `MERGED` 5 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Symfony: keep security updates within the current minor](https://github.com/druidfi/renovate-config/pull/8) - `MERGED` 6 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
-- [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 6 days ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
+- [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 3 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
