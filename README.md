@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (today)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (1 day ago)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (1 week ago)
@@ -12,7 +12,7 @@
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
-- [druidfi/mautic-bounce-webhook-bundle](https://github.com/druidfi/mautic-bounce-webhook-bundle) - Mautic plugin that handles bounce, blocked, and spam webhook callbacks from email transport providers (currently Mailjet), automatically marking contacts as Do Not Contact in Mautic. (1 month ago)
+- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -27,9 +27,11 @@
 #### 🌱 My latest PRs
 
 
+- [Add CI result gate job as the single required check](https://github.com/requirecloud/frankenphp/pull/28) - `MERGED` today - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+
 - [Set up the machine with mise bootstrap](https://github.com/back-2-95/dotfiles/pull/2) - `OPEN` 1 day ago - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles): These are my dotfiles for settings up my macOS from scratch.
 
-- [README: optimized, not authoritative, classmap in Drupal example](https://github.com/requirecloud/frankenphp/pull/27) - `OPEN` 1 day ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [README: optimized, not authoritative, classmap in Drupal example](https://github.com/requirecloud/frankenphp/pull/27) - `MERGED` 1 day ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 - [FrankenPHP 1.14.0: PHP 8.6, drop apcu, add frankenphp-drupal images](https://github.com/requirecloud/frankenphp/pull/26) - `MERGED` 1 day ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
@@ -44,8 +46,6 @@
 - [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 3 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
-
-- [Update to FrankenPHP 1.13.1 and make Mercure hub opt-in](https://github.com/requirecloud/frankenphp/pull/17) - `MERGED` 1 month ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
 
 #### 🌱 My public gists
