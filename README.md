@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
 - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (1 day ago)
 - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (2 days ago)
 - [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (5 days ago)
@@ -12,7 +13,6 @@
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 weeks ago)
 - [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
-- [druidfi/mautic-altcha-bundle](https://github.com/druidfi/mautic-altcha-bundle) - Mautic plugin adding self-hosted, privacy-friendly ALTCHA (proof-of-work CAPTCHA) to forms — no cookies, no tracking, no third-party requests (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -26,6 +26,8 @@
 
 #### 🌱 My latest PRs
 
+
+- [Pass host Composer auth into CLI container](https://github.com/druidfi/tools/pull/17) - `MERGED` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
 - [Add CI result gate job as the single required check](https://github.com/requirecloud/frankenphp/pull/28) - `MERGED` 1 day ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
@@ -44,8 +46,6 @@
 - [Symfony: keep security updates within the current minor](https://github.com/druidfi/renovate-config/pull/8) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
 - [Enable OSV vulnerability alerts for Drupal security releases](https://github.com/druidfi/renovate-config/pull/7) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
-
-- [Add Drupal 12 support](https://github.com/druidfi/omen/pull/18) - `MERGED` 3 weeks ago - [druidfi/omen](https://github.com/druidfi/omen): Read the clouds and detect Drupal environment
 
 
 #### 🌱 My public gists
