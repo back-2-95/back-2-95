@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (today)
-- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (today)
-- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (2 days ago)
-- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (3 days ago)
+- [druidfi/tools](https://github.com/druidfi/tools) - Druid tools (1 day ago)
+- [druidfi/stonehenge](https://github.com/druidfi/stonehenge) - Multi-project local development environment &amp; toolset on Docker (1 day ago)
+- [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp) - FrankenPHP Docker images (3 days ago)
+- [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles) - These are my dotfiles for settings up my macOS from scratch. (4 days ago)
 - [druidfi/renovate-config](https://github.com/druidfi/renovate-config) - Our share configuration presets for Renovate (1 week ago)
 - [druidfi/symfony-minor-pin](https://github.com/druidfi/symfony-minor-pin) - Composer metapackage keeping all Symfony components on one minor version line without Symfony Flex (e.g. for Renovate) (1 week ago)
 - [druidfi/git-backupper](https://github.com/druidfi/git-backupper) - Backup Git repositories and sync them to S3 compliant storage (2 weeks ago)
 - [druidfi/mautic](https://github.com/druidfi/mautic) - DruidXP variant for Mautic (3 weeks ago)
-- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (3 weeks ago)
+- [druidfi/omen](https://github.com/druidfi/omen) - Read the clouds and detect Drupal environment (4 weeks ago)
 - [druidfi/spell](https://github.com/druidfi/spell) - Spell to summon a new Drupal project (1 month ago)
 
 
@@ -27,23 +27,23 @@
 #### 🌱 My latest PRs
 
 
-- [Find Composer auth.json in XDG config dir; document COMPOSER_AUTH](https://github.com/druidfi/tools/pull/19) - `MERGED` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Find Composer auth.json in XDG config dir; document COMPOSER_AUTH](https://github.com/druidfi/tools/pull/19) - `MERGED` 1 day ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Pass host Composer auth into CLI container](https://github.com/druidfi/tools/pull/18) - `MERGED` today - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Pass host Composer auth into CLI container](https://github.com/druidfi/tools/pull/18) - `MERGED` 1 day ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Pass host Composer auth into CLI container](https://github.com/druidfi/tools/pull/17) - `MERGED` 1 day ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
+- [Pass host Composer auth into CLI container](https://github.com/druidfi/tools/pull/17) - `MERGED` 2 days ago - [druidfi/tools](https://github.com/druidfi/tools): Druid tools
 
-- [Add CI result gate job as the single required check](https://github.com/requirecloud/frankenphp/pull/28) - `MERGED` 2 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [Add CI result gate job as the single required check](https://github.com/requirecloud/frankenphp/pull/28) - `MERGED` 3 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
-- [Set up the machine with mise bootstrap](https://github.com/back-2-95/dotfiles/pull/2) - `OPEN` 3 days ago - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles): These are my dotfiles for settings up my macOS from scratch.
+- [Set up the machine with mise bootstrap](https://github.com/back-2-95/dotfiles/pull/2) - `OPEN` 4 days ago - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles): These are my dotfiles for settings up my macOS from scratch.
 
-- [README: optimized, not authoritative, classmap in Drupal example](https://github.com/requirecloud/frankenphp/pull/27) - `MERGED` 3 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [README: optimized, not authoritative, classmap in Drupal example](https://github.com/requirecloud/frankenphp/pull/27) - `MERGED` 4 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
-- [FrankenPHP 1.14.0: PHP 8.6, drop apcu, add frankenphp-drupal images](https://github.com/requirecloud/frankenphp/pull/26) - `MERGED` 3 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
+- [FrankenPHP 1.14.0: PHP 8.6, drop apcu, add frankenphp-drupal images](https://github.com/requirecloud/frankenphp/pull/26) - `MERGED` 4 days ago - [requirecloud/frankenphp](https://github.com/requirecloud/frankenphp): FrankenPHP Docker images
 
-- [Test install.sh in GitHub Actions and a local Tart VM](https://github.com/back-2-95/dotfiles/pull/1) - `MERGED` 3 days ago - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles): These are my dotfiles for settings up my macOS from scratch.
+- [Test install.sh in GitHub Actions and a local Tart VM](https://github.com/back-2-95/dotfiles/pull/1) - `MERGED` 4 days ago - [back-2-95/dotfiles](https://github.com/back-2-95/dotfiles): These are my dotfiles for settings up my macOS from scratch.
 
-- [ci: add PHP 8.6 to test matrix (allowed to fail)](https://github.com/druidfi/mysqldump-php/pull/105) - `MERGED` 4 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
+- [ci: add PHP 8.6 to test matrix (allowed to fail)](https://github.com/druidfi/mysqldump-php/pull/105) - `MERGED` 5 days ago - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php): PHP version of mysqldump cli that comes with MySQL
 
 - [Symfony: don&#39;t propose minor/major bumps for druidfi/symfony-minor-pin](https://github.com/druidfi/renovate-config/pull/9) - `MERGED` 1 week ago - [druidfi/renovate-config](https://github.com/druidfi/renovate-config): Our share configuration presets for Renovate
 
